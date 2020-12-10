@@ -1,0 +1,2160 @@
+Settings: hidden1256, hidden264, lr:0.001
+
+Epoch 0001 train loss= 3.27924 val_ap= 0.65972 time= 2.47098
+
+Epoch 0002 train loss= 3.25054 val_ap= 0.65873 time= 2.44285
+
+Epoch 0003 train loss= 3.24807 val_ap= 0.64849 time= 2.45395
+
+Epoch 0004 train loss= 3.25116 val_ap= 0.65905 time= 2.46522
+
+Epoch 0005 train loss= 3.25636 val_ap= 0.65407 time= 2.44209
+
+Epoch 0006 train loss= 3.26239 val_ap= 0.66069 time= 2.45168
+
+Epoch 0007 train loss= 3.24739 val_ap= 0.65514 time= 2.44722
+
+Epoch 0008 train loss= 3.25308 val_ap= 0.64955 time= 2.45345
+
+Epoch 0009 train loss= 3.25037 val_ap= 0.65717 time= 2.45203
+
+Epoch 0010 train loss= 3.24916 val_ap= 0.66028 time= 2.43531
+
+Epoch 0011 train loss= 3.25476 val_ap= 0.65467 time= 2.45584
+
+Epoch 0012 train loss= 3.26975 val_ap= 0.64997 time= 2.41762
+
+Epoch 0013 train loss= 3.26772 val_ap= 0.64576 time= 2.43615
+
+Epoch 0014 train loss= 3.26702 val_ap= 0.65169 time= 2.45384
+
+Epoch 0015 train loss= 3.24487 val_ap= 0.65052 time= 2.49915
+
+Epoch 0016 train loss= 3.26059 val_ap= 0.65142 time= 2.45616
+
+Epoch 0017 train loss= 3.24847 val_ap= 0.64631 time= 2.47067
+
+Epoch 0018 train loss= 3.25457 val_ap= 0.64894 time= 2.48558
+
+Epoch 0019 train loss= 3.26689 val_ap= 0.65881 time= 2.42616
+
+Epoch 0020 train loss= 3.25191 val_ap= 0.66079 time= 2.45908
+Optimization Finished! 
+Test ROC score: 0.7504564713269549
+Test AP score: 0.6689479222757978
+
+Settings: hidden1256, hidden264, lr:0.01
+
+Epoch 0001 train loss= 3.25485 val_ap= 0.65177 time= 2.46933
+
+Epoch 0002 train loss= 3.25671 val_ap= 0.65300 time= 2.43231
+
+Epoch 0003 train loss= 3.26965 val_ap= 0.65235 time= 2.48875
+
+Epoch 0004 train loss= 3.25130 val_ap= 0.64356 time= 2.46189
+
+Epoch 0005 train loss= 3.23738 val_ap= 0.64675 time= 2.48871
+
+Epoch 0006 train loss= 3.27232 val_ap= 0.64778 time= 2.45754
+
+Epoch 0007 train loss= 3.25177 val_ap= 0.66463 time= 2.46035
+
+Epoch 0008 train loss= 3.25246 val_ap= 0.64614 time= 2.43908
+
+Epoch 0009 train loss= 3.25458 val_ap= 0.65534 time= 2.45129
+
+Epoch 0010 train loss= 3.25140 val_ap= 0.65301 time= 2.43332
+
+Epoch 0011 train loss= 3.25927 val_ap= 0.64846 time= 2.46642
+
+Epoch 0012 train loss= 3.25256 val_ap= 0.65369 time= 2.45309
+
+Epoch 0013 train loss= 3.25786 val_ap= 0.65016 time= 2.46514
+
+Epoch 0014 train loss= 3.25722 val_ap= 0.63947 time= 2.44070
+
+Epoch 0015 train loss= 3.24140 val_ap= 0.65519 time= 2.47017
+
+Epoch 0016 train loss= 3.24364 val_ap= 0.65360 time= 2.42524
+
+Epoch 0017 train loss= 3.25772 val_ap= 0.65060 time= 2.45085
+
+Epoch 0018 train loss= 3.24977 val_ap= 0.65477 time= 2.46099
+
+Epoch 0019 train loss= 3.24095 val_ap= 0.65751 time= 2.45753
+
+Epoch 0020 train loss= 3.25131 val_ap= 0.65206 time= 2.44829
+Optimization Finished! 
+Test ROC score: 0.7446606881735559
+Test AP score: 0.6604940222948746
+
+Settings: hidden1256, hidden264, lr:0.1
+
+Epoch 0001 train loss= 3.25290 val_ap= 0.64829 time= 2.45709
+
+Epoch 0002 train loss= 3.23921 val_ap= 0.64756 time= 2.44515
+
+Epoch 0003 train loss= 3.26210 val_ap= 0.64971 time= 2.44207
+
+Epoch 0004 train loss= 3.24680 val_ap= 0.65469 time= 2.44890
+
+Epoch 0005 train loss= 3.26490 val_ap= 0.65229 time= 2.44353
+
+Epoch 0006 train loss= 3.23982 val_ap= 0.65455 time= 2.44766
+
+Epoch 0007 train loss= 3.25887 val_ap= 0.65421 time= 2.47537
+
+Epoch 0008 train loss= 3.27417 val_ap= 0.65822 time= 2.44381
+
+Epoch 0009 train loss= 3.28251 val_ap= 0.64534 time= 2.45013
+
+Epoch 0010 train loss= 3.26312 val_ap= 0.64976 time= 2.44964
+
+Epoch 0011 train loss= 3.26733 val_ap= 0.64774 time= 2.45161
+
+Epoch 0012 train loss= 3.26346 val_ap= 0.64513 time= 2.42791
+
+Epoch 0013 train loss= 3.25339 val_ap= 0.64800 time= 2.45468
+
+Epoch 0014 train loss= 3.24832 val_ap= 0.64151 time= 2.42297
+
+Epoch 0015 train loss= 3.24116 val_ap= 0.65289 time= 2.45116
+
+Epoch 0016 train loss= 3.25039 val_ap= 0.65150 time= 2.45831
+
+Epoch 0017 train loss= 3.23599 val_ap= 0.65405 time= 2.46158
+
+Epoch 0018 train loss= 3.25704 val_ap= 0.65250 time= 2.43453
+
+Epoch 0019 train loss= 3.25354 val_ap= 0.65327 time= 2.44154
+
+Epoch 0020 train loss= 3.25421 val_ap= 0.65940 time= 2.43233
+Optimization Finished! 
+Test ROC score: 0.7498550588866558
+Test AP score: 0.6674480979413743
+
+Settings: hidden1256, hidden232, lr:0.001
+
+Epoch 0001 train loss= 2.35538 val_ap= 0.64605 time= 2.28403
+
+Epoch 0002 train loss= 2.34664 val_ap= 0.65500 time= 2.25975
+
+Epoch 0003 train loss= 2.33398 val_ap= 0.66295 time= 2.28013
+
+Epoch 0004 train loss= 2.34726 val_ap= 0.64496 time= 2.28196
+
+Epoch 0005 train loss= 2.34696 val_ap= 0.65607 time= 2.28487
+
+Epoch 0006 train loss= 2.33814 val_ap= 0.65079 time= 2.27732
+
+Epoch 0007 train loss= 2.36100 val_ap= 0.65362 time= 2.29015
+
+Epoch 0008 train loss= 2.35385 val_ap= 0.65024 time= 2.27178
+
+Epoch 0009 train loss= 2.35316 val_ap= 0.64997 time= 2.29222
+
+Epoch 0010 train loss= 2.34424 val_ap= 0.65857 time= 2.26733
+
+Epoch 0011 train loss= 2.35002 val_ap= 0.65199 time= 2.28341
+
+Epoch 0012 train loss= 2.34859 val_ap= 0.64937 time= 2.30100
+
+Epoch 0013 train loss= 2.34967 val_ap= 0.66482 time= 2.28312
+
+Epoch 0014 train loss= 2.34724 val_ap= 0.64706 time= 2.27866
+
+Epoch 0015 train loss= 2.34877 val_ap= 0.65701 time= 2.27202
+
+Epoch 0016 train loss= 2.33558 val_ap= 0.64223 time= 2.28005
+
+Epoch 0017 train loss= 2.35985 val_ap= 0.65558 time= 2.30101
+
+Epoch 0018 train loss= 2.34283 val_ap= 0.65703 time= 2.28049
+
+Epoch 0019 train loss= 2.34598 val_ap= 0.66321 time= 2.28942
+
+Epoch 0020 train loss= 2.36302 val_ap= 0.65723 time= 2.28785
+Optimization Finished! 
+Test ROC score: 0.7502754865152944
+Test AP score: 0.6650458598523815
+
+Settings: hidden1256, hidden232, lr:0.01
+
+Epoch 0001 train loss= 2.35079 val_ap= 0.66343 time= 2.30327
+
+Epoch 0002 train loss= 2.35084 val_ap= 0.65720 time= 2.29014
+
+Epoch 0003 train loss= 2.36572 val_ap= 0.66513 time= 2.30846
+
+Epoch 0004 train loss= 2.35082 val_ap= 0.65774 time= 2.28773
+
+Epoch 0005 train loss= 2.33912 val_ap= 0.65688 time= 2.27764
+
+Epoch 0006 train loss= 2.34869 val_ap= 0.65495 time= 2.29402
+
+Epoch 0007 train loss= 2.36049 val_ap= 0.64489 time= 2.27037
+
+Epoch 0008 train loss= 2.33434 val_ap= 0.65259 time= 2.25788
+
+Epoch 0009 train loss= 2.35853 val_ap= 0.65079 time= 2.29880
+
+Epoch 0010 train loss= 2.35309 val_ap= 0.64936 time= 2.29456
+
+Epoch 0011 train loss= 2.35537 val_ap= 0.65386 time= 2.30797
+
+Epoch 0012 train loss= 2.36744 val_ap= 0.65000 time= 2.27931
+
+Epoch 0013 train loss= 2.35362 val_ap= 0.65192 time= 2.29558
+
+Epoch 0014 train loss= 2.34963 val_ap= 0.66009 time= 2.28020
+
+Epoch 0015 train loss= 2.35645 val_ap= 0.65209 time= 2.29029
+
+Epoch 0016 train loss= 2.35578 val_ap= 0.65816 time= 2.29349
+
+Epoch 0017 train loss= 2.34790 val_ap= 0.64996 time= 2.27935
+
+Epoch 0018 train loss= 2.35617 val_ap= 0.65336 time= 2.29257
+
+Epoch 0019 train loss= 2.34498 val_ap= 0.65271 time= 2.28899
+
+Epoch 0020 train loss= 2.33761 val_ap= 0.65477 time= 2.25922
+Optimization Finished! 
+Test ROC score: 0.7451509908660777
+Test AP score: 0.660893229241035
+
+Settings: hidden1256, hidden232, lr:0.1
+
+Epoch 0001 train loss= 2.36307 val_ap= 0.66268 time= 2.27933
+
+Epoch 0002 train loss= 2.35899 val_ap= 0.64724 time= 2.25407
+
+Epoch 0003 train loss= 2.34701 val_ap= 0.65177 time= 2.28078
+
+Epoch 0004 train loss= 2.36504 val_ap= 0.66051 time= 2.25870
+
+Epoch 0005 train loss= 2.35850 val_ap= 0.65230 time= 2.26071
+
+Epoch 0006 train loss= 2.35255 val_ap= 0.65078 time= 2.26287
+
+Epoch 0007 train loss= 2.34478 val_ap= 0.67084 time= 2.26479
+
+Epoch 0008 train loss= 2.35812 val_ap= 0.64429 time= 2.26733
+
+Epoch 0009 train loss= 2.34742 val_ap= 0.64947 time= 2.27449
+
+Epoch 0010 train loss= 2.35081 val_ap= 0.65622 time= 2.27125
+
+Epoch 0011 train loss= 2.34800 val_ap= 0.65057 time= 2.27376
+
+Epoch 0012 train loss= 2.33526 val_ap= 0.65758 time= 2.26774
+
+Epoch 0013 train loss= 2.34510 val_ap= 0.64743 time= 2.29452
+
+Epoch 0014 train loss= 2.35277 val_ap= 0.64894 time= 2.29801
+
+Epoch 0015 train loss= 2.35116 val_ap= 0.65390 time= 2.28061
+
+Epoch 0016 train loss= 2.35143 val_ap= 0.64666 time= 2.25703
+
+Epoch 0017 train loss= 2.35417 val_ap= 0.64820 time= 2.28118
+
+Epoch 0018 train loss= 2.34400 val_ap= 0.65329 time= 2.29638
+
+Epoch 0019 train loss= 2.34668 val_ap= 0.65051 time= 2.29506
+
+Epoch 0020 train loss= 2.33826 val_ap= 0.65081 time= 2.29617
+Optimization Finished! 
+Test ROC score: 0.7430443836330345
+Test AP score: 0.6568853214634992
+
+Settings: hidden1256, hidden216, lr:0.001
+
+Epoch 0001 train loss= 1.74125 val_ap= 0.65320 time= 2.25117
+
+Epoch 0002 train loss= 1.72350 val_ap= 0.64367 time= 2.24853
+
+Epoch 0003 train loss= 1.73577 val_ap= 0.65477 time= 2.25146
+
+Epoch 0004 train loss= 1.73803 val_ap= 0.65706 time= 2.26833
+
+Epoch 0005 train loss= 1.70824 val_ap= 0.64151 time= 2.26029
+
+Epoch 0006 train loss= 1.72500 val_ap= 0.64718 time= 2.24685
+
+Epoch 0007 train loss= 1.72900 val_ap= 0.64928 time= 2.26401
+
+Epoch 0008 train loss= 1.73406 val_ap= 0.66430 time= 2.25174
+
+Epoch 0009 train loss= 1.72520 val_ap= 0.64272 time= 2.25592
+
+Epoch 0010 train loss= 1.73519 val_ap= 0.66272 time= 2.22398
+
+Epoch 0011 train loss= 1.73262 val_ap= 0.65002 time= 2.23806
+
+Epoch 0012 train loss= 1.72029 val_ap= 0.64673 time= 2.24115
+
+Epoch 0013 train loss= 1.71379 val_ap= 0.66952 time= 2.25964
+
+Epoch 0014 train loss= 1.72582 val_ap= 0.65239 time= 2.23958
+
+Epoch 0015 train loss= 1.72234 val_ap= 0.65748 time= 2.24636
+
+Epoch 0016 train loss= 1.74534 val_ap= 0.66551 time= 2.22005
+
+Epoch 0017 train loss= 1.72723 val_ap= 0.67499 time= 2.24320
+
+Epoch 0018 train loss= 1.71736 val_ap= 0.66415 time= 2.21511
+
+Epoch 0019 train loss= 1.74324 val_ap= 0.65601 time= 2.29260
+
+Epoch 0020 train loss= 1.72359 val_ap= 0.65837 time= 2.23868
+Optimization Finished! 
+Test ROC score: 0.748325879386053
+Test AP score: 0.6641553096480322
+
+Settings: hidden1256, hidden216, lr:0.01
+
+Epoch 0001 train loss= 1.73329 val_ap= 0.66772 time= 2.24591
+
+Epoch 0002 train loss= 1.73156 val_ap= 0.67081 time= 2.22437
+
+Epoch 0003 train loss= 1.72868 val_ap= 0.65042 time= 2.22553
+
+Epoch 0004 train loss= 1.72508 val_ap= 0.66187 time= 2.22064
+
+Epoch 0005 train loss= 1.72774 val_ap= 0.66411 time= 2.27327
+
+Epoch 0006 train loss= 1.73044 val_ap= 0.64946 time= 2.23899
+
+Epoch 0007 train loss= 1.73912 val_ap= 0.67104 time= 2.25334
+
+Epoch 0008 train loss= 1.72023 val_ap= 0.66709 time= 2.26268
+
+Epoch 0009 train loss= 1.73926 val_ap= 0.65699 time= 2.26815
+
+Epoch 0010 train loss= 1.73761 val_ap= 0.66651 time= 2.25126
+
+Epoch 0011 train loss= 1.73871 val_ap= 0.66985 time= 2.21973
+
+Epoch 0012 train loss= 1.72664 val_ap= 0.67625 time= 2.22597
+
+Epoch 0013 train loss= 1.73963 val_ap= 0.65944 time= 2.21240
+
+Epoch 0014 train loss= 1.73345 val_ap= 0.66022 time= 2.22232
+
+Epoch 0015 train loss= 1.72654 val_ap= 0.65364 time= 2.22647
+
+Epoch 0016 train loss= 1.73209 val_ap= 0.65606 time= 2.22707
+
+Epoch 0017 train loss= 1.73132 val_ap= 0.66506 time= 2.22715
+
+Epoch 0018 train loss= 1.71824 val_ap= 0.66230 time= 2.21500
+
+Epoch 0019 train loss= 1.72740 val_ap= 0.63768 time= 2.24971
+
+Epoch 0020 train loss= 1.72097 val_ap= 0.65569 time= 2.24980
+Optimization Finished! 
+Test ROC score: 0.746958706613767
+Test AP score: 0.6620771136939355
+
+Settings: hidden1256, hidden216, lr:0.1
+
+Epoch 0001 train loss= 1.72160 val_ap= 0.67376 time= 2.27547
+
+Epoch 0002 train loss= 1.72775 val_ap= 0.65919 time= 2.26829
+
+Epoch 0003 train loss= 1.73875 val_ap= 0.64109 time= 2.24058
+
+Epoch 0004 train loss= 1.72911 val_ap= 0.67341 time= 2.22905
+
+Epoch 0005 train loss= 1.73535 val_ap= 0.64645 time= 2.24051
+
+Epoch 0006 train loss= 1.72664 val_ap= 0.65352 time= 2.21854
+
+Epoch 0007 train loss= 1.73266 val_ap= 0.66688 time= 2.24407
+
+Epoch 0008 train loss= 1.73341 val_ap= 0.65341 time= 2.25469
+
+Epoch 0009 train loss= 1.72988 val_ap= 0.65702 time= 2.23729
+
+Epoch 0010 train loss= 1.73794 val_ap= 0.67316 time= 2.22625
+
+Epoch 0011 train loss= 1.72333 val_ap= 0.65726 time= 2.26734
+
+Epoch 0012 train loss= 1.72553 val_ap= 0.68993 time= 2.28754
+
+Epoch 0013 train loss= 1.73194 val_ap= 0.65962 time= 2.25135
+
+Epoch 0014 train loss= 1.72875 val_ap= 0.64872 time= 2.26386
+
+Epoch 0015 train loss= 1.73893 val_ap= 0.64887 time= 2.24918
+
+Epoch 0016 train loss= 1.73218 val_ap= 0.65747 time= 2.25004
+
+Epoch 0017 train loss= 1.72698 val_ap= 0.63840 time= 2.23723
+
+Epoch 0018 train loss= 1.72610 val_ap= 0.65292 time= 2.21861
+
+Epoch 0019 train loss= 1.73284 val_ap= 0.65374 time= 2.22583
+
+Epoch 0020 train loss= 1.73835 val_ap= 0.64174 time= 2.20861
+Optimization Finished! 
+Test ROC score: 0.7382456650872415
+Test AP score: 0.6479777030904518
+
+Settings: hidden1256, hidden28, lr:0.001
+
+Epoch 0001 train loss= 1.31478 val_ap= 0.68226 time= 2.20527
+
+Epoch 0002 train loss= 1.29744 val_ap= 0.66674 time= 2.19159
+
+Epoch 0003 train loss= 1.31964 val_ap= 0.65359 time= 2.20950
+
+Epoch 0004 train loss= 1.32481 val_ap= 0.64477 time= 2.19747
+
+Epoch 0005 train loss= 1.32068 val_ap= 0.66240 time= 2.22486
+
+Epoch 0006 train loss= 1.29564 val_ap= 0.64683 time= 2.21386
+
+Epoch 0007 train loss= 1.32353 val_ap= 0.66563 time= 2.23029
+
+Epoch 0008 train loss= 1.30530 val_ap= 0.67187 time= 2.23066
+
+Epoch 0009 train loss= 1.31697 val_ap= 0.66166 time= 2.22495
+
+Epoch 0010 train loss= 1.31518 val_ap= 0.66840 time= 2.20678
+
+Epoch 0011 train loss= 1.30903 val_ap= 0.64093 time= 2.24462
+
+Epoch 0012 train loss= 1.30775 val_ap= 0.66829 time= 2.20627
+
+Epoch 0013 train loss= 1.30335 val_ap= 0.66478 time= 2.21510
+
+Epoch 0014 train loss= 1.30972 val_ap= 0.65620 time= 2.22883
+
+Epoch 0015 train loss= 1.31654 val_ap= 0.65609 time= 2.25360
+
+Epoch 0016 train loss= 1.31254 val_ap= 0.67365 time= 2.24513
+
+Epoch 0017 train loss= 1.31132 val_ap= 0.65223 time= 2.24149
+
+Epoch 0018 train loss= 1.31090 val_ap= 0.64994 time= 2.21975
+
+Epoch 0019 train loss= 1.30980 val_ap= 0.63916 time= 2.23151
+
+Epoch 0020 train loss= 1.30906 val_ap= 0.64007 time= 2.21131
+Optimization Finished! 
+Test ROC score: 0.7374613531456942
+Test AP score: 0.6428705457577747
+
+Settings: hidden1256, hidden28, lr:0.01
+
+Epoch 0001 train loss= 1.31899 val_ap= 0.64529 time= 2.21746
+
+Epoch 0002 train loss= 1.29742 val_ap= 0.66297 time= 2.24497
+
+Epoch 0003 train loss= 1.32011 val_ap= 0.64311 time= 2.24420
+
+Epoch 0004 train loss= 1.30022 val_ap= 0.66138 time= 2.22553
+
+Epoch 0005 train loss= 1.31980 val_ap= 0.66224 time= 2.22437
+
+Epoch 0006 train loss= 1.31054 val_ap= 0.65110 time= 2.19223
+
+Epoch 0007 train loss= 1.31270 val_ap= 0.63578 time= 2.20669
+
+Epoch 0008 train loss= 1.31293 val_ap= 0.65967 time= 2.19095
+
+Epoch 0009 train loss= 1.31571 val_ap= 0.67891 time= 2.20603
+
+Epoch 0010 train loss= 1.30693 val_ap= 0.65964 time= 2.19559
+
+Epoch 0011 train loss= 1.30948 val_ap= 0.67099 time= 2.19442
+
+Epoch 0012 train loss= 1.31479 val_ap= 0.65404 time= 2.17921
+
+Epoch 0013 train loss= 1.31791 val_ap= 0.66319 time= 2.19417
+
+Epoch 0014 train loss= 1.31423 val_ap= 0.67503 time= 2.19956
+
+Epoch 0015 train loss= 1.31570 val_ap= 0.65736 time= 2.22798
+
+Epoch 0016 train loss= 1.30400 val_ap= 0.64332 time= 2.20613
+
+Epoch 0017 train loss= 1.30395 val_ap= 0.64480 time= 2.20253
+
+Epoch 0018 train loss= 1.32137 val_ap= 0.63622 time= 2.19629
+
+Epoch 0019 train loss= 1.31763 val_ap= 0.65324 time= 2.21361
+
+Epoch 0020 train loss= 1.31694 val_ap= 0.63492 time= 2.16860
+Optimization Finished! 
+Test ROC score: 0.7335017039982122
+Test AP score: 0.6415751755271664
+
+Settings: hidden1256, hidden28, lr:0.1
+
+Epoch 0001 train loss= 1.31055 val_ap= 0.65466 time= 2.17111
+
+Epoch 0002 train loss= 1.32513 val_ap= 0.65079 time= 2.18178
+
+Epoch 0003 train loss= 1.31623 val_ap= 0.65779 time= 2.17034
+
+Epoch 0004 train loss= 1.32049 val_ap= 0.65460 time= 2.18874
+
+Epoch 0005 train loss= 1.31007 val_ap= 0.66182 time= 2.18935
+
+Epoch 0006 train loss= 1.30349 val_ap= 0.64895 time= 2.17376
+
+Epoch 0007 train loss= 1.30391 val_ap= 0.64103 time= 2.18590
+
+Epoch 0008 train loss= 1.32043 val_ap= 0.65936 time= 2.18793
+
+Epoch 0009 train loss= 1.31008 val_ap= 0.64106 time= 2.22355
+
+Epoch 0010 train loss= 1.32047 val_ap= 0.65828 time= 2.17483
+
+Epoch 0011 train loss= 1.30926 val_ap= 0.67980 time= 2.22261
+
+Epoch 0012 train loss= 1.31967 val_ap= 0.65747 time= 2.22275
+
+Epoch 0013 train loss= 1.31283 val_ap= 0.65258 time= 2.22006
+
+Epoch 0014 train loss= 1.31132 val_ap= 0.64705 time= 2.20115
+
+Epoch 0015 train loss= 1.31009 val_ap= 0.64724 time= 2.18794
+
+Epoch 0016 train loss= 1.30889 val_ap= 0.68387 time= 2.17896
+
+Epoch 0017 train loss= 1.31001 val_ap= 0.64190 time= 2.17502
+
+Epoch 0018 train loss= 1.31187 val_ap= 0.64873 time= 2.17061
+
+Epoch 0019 train loss= 1.30421 val_ap= 0.66741 time= 2.17955
+
+Epoch 0020 train loss= 1.32298 val_ap= 0.65925 time= 2.17936
+Optimization Finished! 
+Test ROC score: 0.7508513460680952
+Test AP score: 0.6636330449609716
+
+Settings: hidden1128, hidden264, lr:0.001
+
+Epoch 0001 train loss= 3.25661 val_ap= 0.65867 time= 2.13080
+
+Epoch 0002 train loss= 3.24081 val_ap= 0.65497 time= 2.14861
+
+Epoch 0003 train loss= 3.24224 val_ap= 0.64934 time= 2.14841
+
+Epoch 0004 train loss= 3.24499 val_ap= 0.65968 time= 2.12379
+
+Epoch 0005 train loss= 3.26913 val_ap= 0.65217 time= 2.14754
+
+Epoch 0006 train loss= 3.25679 val_ap= 0.65968 time= 2.14813
+
+Epoch 0007 train loss= 3.25548 val_ap= 0.65217 time= 2.12333
+
+Epoch 0008 train loss= 3.25396 val_ap= 0.65371 time= 2.11422
+
+Epoch 0009 train loss= 3.24997 val_ap= 0.64449 time= 2.14253
+
+Epoch 0010 train loss= 3.24741 val_ap= 0.64226 time= 2.12144
+
+Epoch 0011 train loss= 3.24732 val_ap= 0.65232 time= 2.12956
+
+Epoch 0012 train loss= 3.25598 val_ap= 0.64895 time= 2.13370
+
+Epoch 0013 train loss= 3.26294 val_ap= 0.64800 time= 2.14798
+
+Epoch 0014 train loss= 3.25782 val_ap= 0.65389 time= 2.12901
+
+Epoch 0015 train loss= 3.25312 val_ap= 0.65041 time= 2.13028
+
+Epoch 0016 train loss= 3.26383 val_ap= 0.64913 time= 2.13612
+
+Epoch 0017 train loss= 3.25917 val_ap= 0.65658 time= 2.15100
+
+Epoch 0018 train loss= 3.25887 val_ap= 0.65055 time= 2.13127
+
+Epoch 0019 train loss= 3.24888 val_ap= 0.65270 time= 2.14110
+
+Epoch 0020 train loss= 3.25762 val_ap= 0.66055 time= 2.13492
+Optimization Finished! 
+Test ROC score: 0.7509456811804076
+Test AP score: 0.6705798179970983
+
+Settings: hidden1128, hidden264, lr:0.01
+
+Epoch 0001 train loss= 3.24818 val_ap= 0.65207 time= 2.14709
+
+Epoch 0002 train loss= 3.26080 val_ap= 0.66257 time= 2.16573
+
+Epoch 0003 train loss= 3.24769 val_ap= 0.64868 time= 2.14438
+
+Epoch 0004 train loss= 3.27517 val_ap= 0.65263 time= 2.12336
+
+Epoch 0005 train loss= 3.27096 val_ap= 0.65345 time= 2.12327
+
+Epoch 0006 train loss= 3.26275 val_ap= 0.64853 time= 2.15538
+
+Epoch 0007 train loss= 3.25025 val_ap= 0.64255 time= 2.16956
+
+Epoch 0008 train loss= 3.25719 val_ap= 0.65010 time= 2.15468
+
+Epoch 0009 train loss= 3.28032 val_ap= 0.65385 time= 2.14898
+
+Epoch 0010 train loss= 3.25966 val_ap= 0.65177 time= 2.15354
+
+Epoch 0011 train loss= 3.24060 val_ap= 0.66065 time= 2.14413
+
+Epoch 0012 train loss= 3.24579 val_ap= 0.65826 time= 2.12955
+
+Epoch 0013 train loss= 3.24653 val_ap= 0.65202 time= 2.13958
+
+Epoch 0014 train loss= 3.26374 val_ap= 0.64955 time= 2.13615
+
+Epoch 0015 train loss= 3.26760 val_ap= 0.65374 time= 2.14872
+
+Epoch 0016 train loss= 3.26068 val_ap= 0.65137 time= 2.14146
+
+Epoch 0017 train loss= 3.24429 val_ap= 0.65784 time= 2.14349
+
+Epoch 0018 train loss= 3.26344 val_ap= 0.65407 time= 2.14388
+
+Epoch 0019 train loss= 3.27109 val_ap= 0.64695 time= 2.14305
+
+Epoch 0020 train loss= 3.25276 val_ap= 0.65301 time= 2.12190
+Optimization Finished! 
+Test ROC score: 0.7444243150793284
+Test AP score: 0.6603741142017707
+
+Settings: hidden1128, hidden264, lr:0.1
+
+Epoch 0001 train loss= 3.25563 val_ap= 0.65045 time= 2.14353
+
+Epoch 0002 train loss= 3.25858 val_ap= 0.65052 time= 2.14565
+
+Epoch 0003 train loss= 3.26848 val_ap= 0.66445 time= 2.13578
+
+Epoch 0004 train loss= 3.25696 val_ap= 0.64704 time= 2.17791
+
+Epoch 0005 train loss= 3.24447 val_ap= 0.65209 time= 2.17353
+
+Epoch 0006 train loss= 3.25253 val_ap= 0.66007 time= 2.18333
+
+Epoch 0007 train loss= 3.24750 val_ap= 0.64693 time= 2.17437
+
+Epoch 0008 train loss= 3.26622 val_ap= 0.64753 time= 2.16236
+
+Epoch 0009 train loss= 3.25215 val_ap= 0.65369 time= 2.11029
+
+Epoch 0010 train loss= 3.26245 val_ap= 0.64537 time= 2.12427
+
+Epoch 0011 train loss= 3.25290 val_ap= 0.64559 time= 2.12804
+
+Epoch 0012 train loss= 3.24783 val_ap= 0.65267 time= 2.12630
+
+Epoch 0013 train loss= 3.25076 val_ap= 0.65162 time= 2.13173
+
+Epoch 0014 train loss= 3.26677 val_ap= 0.65131 time= 2.12546
+
+Epoch 0015 train loss= 3.25086 val_ap= 0.65561 time= 2.14581
+
+Epoch 0016 train loss= 3.26602 val_ap= 0.64948 time= 2.12244
+
+Epoch 0017 train loss= 3.25934 val_ap= 0.65549 time= 2.14593
+
+Epoch 0018 train loss= 3.26336 val_ap= 0.65244 time= 2.13966
+
+Epoch 0019 train loss= 3.26438 val_ap= 0.65351 time= 2.12139
+
+Epoch 0020 train loss= 3.24698 val_ap= 0.65327 time= 2.13220
+Optimization Finished! 
+Test ROC score: 0.74523595688247
+Test AP score: 0.6614423596497502
+
+Settings: hidden1128, hidden232, lr:0.001
+
+Epoch 0001 train loss= 2.33987 val_ap= 0.65625 time= 1.97869
+
+Epoch 0002 train loss= 2.34742 val_ap= 0.65769 time= 1.96569
+
+Epoch 0003 train loss= 2.34618 val_ap= 0.64801 time= 1.98545
+
+Epoch 0004 train loss= 2.35755 val_ap= 0.66628 time= 1.99629
+
+Epoch 0005 train loss= 2.36290 val_ap= 0.65879 time= 1.99984
+
+Epoch 0006 train loss= 2.34895 val_ap= 0.66778 time= 1.99323
+
+Epoch 0007 train loss= 2.34982 val_ap= 0.66641 time= 2.00292
+
+Epoch 0008 train loss= 2.34018 val_ap= 0.65441 time= 1.98776
+
+Epoch 0009 train loss= 2.35619 val_ap= 0.65399 time= 1.97966
+
+Epoch 0010 train loss= 2.34720 val_ap= 0.65548 time= 1.97525
+
+Epoch 0011 train loss= 2.34964 val_ap= 0.65032 time= 1.98177
+
+Epoch 0012 train loss= 2.34173 val_ap= 0.65542 time= 1.96826
+
+Epoch 0013 train loss= 2.34111 val_ap= 0.65505 time= 1.98118
+
+Epoch 0014 train loss= 2.35546 val_ap= 0.64718 time= 1.95397
+
+Epoch 0015 train loss= 2.35407 val_ap= 0.66359 time= 1.96628
+
+Epoch 0016 train loss= 2.33926 val_ap= 0.66261 time= 1.94767
+
+Epoch 0017 train loss= 2.35020 val_ap= 0.66374 time= 1.97333
+
+Epoch 0018 train loss= 2.34744 val_ap= 0.65401 time= 1.96209
+
+Epoch 0019 train loss= 2.35142 val_ap= 0.64962 time= 1.96999
+
+Epoch 0020 train loss= 2.34232 val_ap= 0.65801 time= 1.98384
+Optimization Finished! 
+Test ROC score: 0.747762014408399
+Test AP score: 0.6653968818003906
+
+Settings: hidden1128, hidden232, lr:0.01
+
+Epoch 0001 train loss= 2.34904 val_ap= 0.64924 time= 1.98181
+
+Epoch 0002 train loss= 2.35191 val_ap= 0.65132 time= 1.98412
+
+Epoch 0003 train loss= 2.35062 val_ap= 0.64725 time= 1.97505
+
+Epoch 0004 train loss= 2.35186 val_ap= 0.64968 time= 1.96844
+
+Epoch 0005 train loss= 2.34817 val_ap= 0.66618 time= 1.96542
+
+Epoch 0006 train loss= 2.35213 val_ap= 0.65986 time= 1.93929
+
+Epoch 0007 train loss= 2.35838 val_ap= 0.65764 time= 1.96131
+
+Epoch 0008 train loss= 2.36410 val_ap= 0.65362 time= 1.97630
+
+Epoch 0009 train loss= 2.35584 val_ap= 0.65381 time= 1.95722
+
+Epoch 0010 train loss= 2.34778 val_ap= 0.64412 time= 1.95373
+
+Epoch 0011 train loss= 2.34313 val_ap= 0.65136 time= 1.96448
+
+Epoch 0012 train loss= 2.34500 val_ap= 0.64901 time= 1.97520
+
+Epoch 0013 train loss= 2.34753 val_ap= 0.64600 time= 1.97280
+
+Epoch 0014 train loss= 2.35023 val_ap= 0.66799 time= 1.94180
+
+Epoch 0015 train loss= 2.34752 val_ap= 0.66366 time= 1.97173
+
+Epoch 0016 train loss= 2.34684 val_ap= 0.66057 time= 1.97554
+
+Epoch 0017 train loss= 2.34629 val_ap= 0.65809 time= 1.97342
+
+Epoch 0018 train loss= 2.35357 val_ap= 0.64913 time= 1.96773
+
+Epoch 0019 train loss= 2.34376 val_ap= 0.64533 time= 1.96696
+
+Epoch 0020 train loss= 2.35880 val_ap= 0.65266 time= 1.94907
+Optimization Finished! 
+Test ROC score: 0.7439195611449724
+Test AP score: 0.6584730148207926
+
+Settings: hidden1128, hidden232, lr:0.1
+
+Epoch 0001 train loss= 2.35435 val_ap= 0.66309 time= 1.97127
+
+Epoch 0002 train loss= 2.34653 val_ap= 0.64840 time= 1.95986
+
+Epoch 0003 train loss= 2.34809 val_ap= 0.64612 time= 1.98688
+
+Epoch 0004 train loss= 2.35073 val_ap= 0.66330 time= 1.97217
+
+Epoch 0005 train loss= 2.34271 val_ap= 0.65111 time= 1.99177
+
+Epoch 0006 train loss= 2.33824 val_ap= 0.64739 time= 1.97178
+
+Epoch 0007 train loss= 2.35399 val_ap= 0.65492 time= 1.99002
+
+Epoch 0008 train loss= 2.36540 val_ap= 0.64204 time= 1.97122
+
+Epoch 0009 train loss= 2.35883 val_ap= 0.65023 time= 1.98233
+
+Epoch 0010 train loss= 2.33436 val_ap= 0.64706 time= 1.96359
+
+Epoch 0011 train loss= 2.34454 val_ap= 0.66071 time= 1.97470
+
+Epoch 0012 train loss= 2.34104 val_ap= 0.65392 time= 1.97442
+
+Epoch 0013 train loss= 2.35125 val_ap= 0.64541 time= 1.97113
+
+Epoch 0014 train loss= 2.34610 val_ap= 0.66355 time= 1.96208
+
+Epoch 0015 train loss= 2.34379 val_ap= 0.66983 time= 1.98035
+
+Epoch 0016 train loss= 2.34950 val_ap= 0.65351 time= 1.98571
+
+Epoch 0017 train loss= 2.36321 val_ap= 0.65750 time= 1.98554
+
+Epoch 0018 train loss= 2.35478 val_ap= 0.65549 time= 1.98317
+
+Epoch 0019 train loss= 2.35681 val_ap= 0.65895 time= 1.97088
+
+Epoch 0020 train loss= 2.33677 val_ap= 0.66070 time= 1.97761
+Optimization Finished! 
+Test ROC score: 0.7509811806804072
+Test AP score: 0.6688618199111819
+
+Settings: hidden1128, hidden216, lr:0.001
+
+Epoch 0001 train loss= 1.72379 val_ap= 0.65509 time= 1.94654
+
+Epoch 0002 train loss= 1.71430 val_ap= 0.64833 time= 1.92637
+
+Epoch 0003 train loss= 1.73286 val_ap= 0.65882 time= 1.91408
+
+Epoch 0004 train loss= 1.74020 val_ap= 0.65821 time= 1.89910
+
+Epoch 0005 train loss= 1.73432 val_ap= 0.65013 time= 1.91568
+
+Epoch 0006 train loss= 1.72959 val_ap= 0.65878 time= 1.91200
+
+Epoch 0007 train loss= 1.73724 val_ap= 0.64537 time= 1.92126
+
+Epoch 0008 train loss= 1.72391 val_ap= 0.65549 time= 1.89227
+
+Epoch 0009 train loss= 1.74683 val_ap= 0.67057 time= 1.91759
+
+Epoch 0010 train loss= 1.73342 val_ap= 0.65753 time= 1.90174
+
+Epoch 0011 train loss= 1.72903 val_ap= 0.66286 time= 1.91339
+
+Epoch 0012 train loss= 1.72272 val_ap= 0.65780 time= 1.92103
+
+Epoch 0013 train loss= 1.71972 val_ap= 0.66046 time= 1.92178
+
+Epoch 0014 train loss= 1.72968 val_ap= 0.66295 time= 1.92527
+
+Epoch 0015 train loss= 1.71769 val_ap= 0.65988 time= 1.93540
+
+Epoch 0016 train loss= 1.72937 val_ap= 0.66183 time= 1.91144
+
+Epoch 0017 train loss= 1.73194 val_ap= 0.64490 time= 1.92569
+
+Epoch 0018 train loss= 1.71325 val_ap= 0.66599 time= 1.90110
+
+Epoch 0019 train loss= 1.71833 val_ap= 0.65568 time= 1.90623
+
+Epoch 0020 train loss= 1.72397 val_ap= 0.66827 time= 1.91510
+Optimization Finished! 
+Test ROC score: 0.7575512358717121
+Test AP score: 0.6733502059566742
+
+Settings: hidden1128, hidden216, lr:0.01
+
+Epoch 0001 train loss= 1.74337 val_ap= 0.65846 time= 1.90866
+
+Epoch 0002 train loss= 1.73419 val_ap= 0.66402 time= 1.91324
+
+Epoch 0003 train loss= 1.73978 val_ap= 0.65121 time= 1.92019
+
+Epoch 0004 train loss= 1.73229 val_ap= 0.65822 time= 1.90461
+
+Epoch 0005 train loss= 1.72848 val_ap= 0.64881 time= 1.96205
+
+Epoch 0006 train loss= 1.70859 val_ap= 0.65180 time= 1.92519
+
+Epoch 0007 train loss= 1.73238 val_ap= 0.65673 time= 1.92312
+
+Epoch 0008 train loss= 1.73834 val_ap= 0.64763 time= 1.92162
+
+Epoch 0009 train loss= 1.73044 val_ap= 0.65829 time= 1.93664
+
+Epoch 0010 train loss= 1.72939 val_ap= 0.66685 time= 1.91261
+
+Epoch 0011 train loss= 1.73853 val_ap= 0.66337 time= 1.91054
+
+Epoch 0012 train loss= 1.73575 val_ap= 0.63919 time= 1.88906
+
+Epoch 0013 train loss= 1.72341 val_ap= 0.64351 time= 1.90621
+
+Epoch 0014 train loss= 1.71870 val_ap= 0.66890 time= 1.91399
+
+Epoch 0015 train loss= 1.73232 val_ap= 0.63653 time= 1.88505
+
+Epoch 0016 train loss= 1.72548 val_ap= 0.66705 time= 1.89806
+
+Epoch 0017 train loss= 1.73330 val_ap= 0.66947 time= 1.90900
+
+Epoch 0018 train loss= 1.73189 val_ap= 0.65855 time= 1.90510
+
+Epoch 0019 train loss= 1.73219 val_ap= 0.67206 time= 1.92287
+
+Epoch 0020 train loss= 1.72104 val_ap= 0.65135 time= 1.89543
+Optimization Finished! 
+Test ROC score: 0.7472329870078938
+Test AP score: 0.6601869905853862
+
+Settings: hidden1128, hidden216, lr:0.1
+
+Epoch 0001 train loss= 1.74413 val_ap= 0.65300 time= 1.91963
+
+Epoch 0002 train loss= 1.73185 val_ap= 0.65670 time= 1.88483
+
+Epoch 0003 train loss= 1.72138 val_ap= 0.64880 time= 1.96333
+
+Epoch 0004 train loss= 1.72994 val_ap= 0.66316 time= 1.92021
+
+Epoch 0005 train loss= 1.73513 val_ap= 0.66012 time= 1.90980
+
+Epoch 0006 train loss= 1.72993 val_ap= 0.65407 time= 1.90045
+
+Epoch 0007 train loss= 1.72621 val_ap= 0.66174 time= 1.89653
+
+Epoch 0008 train loss= 1.72489 val_ap= 0.65863 time= 1.90738
+
+Epoch 0009 train loss= 1.73960 val_ap= 0.66597 time= 1.90053
+
+Epoch 0010 train loss= 1.73892 val_ap= 0.64855 time= 1.90770
+
+Epoch 0011 train loss= 1.72333 val_ap= 0.65355 time= 1.90063
+
+Epoch 0012 train loss= 1.72335 val_ap= 0.66657 time= 1.90708
+
+Epoch 0013 train loss= 1.73215 val_ap= 0.66871 time= 1.92672
+
+Epoch 0014 train loss= 1.73619 val_ap= 0.65451 time= 1.92305
+
+Epoch 0015 train loss= 1.72309 val_ap= 0.65422 time= 1.89965
+
+Epoch 0016 train loss= 1.71193 val_ap= 0.66463 time= 1.90448
+
+Epoch 0017 train loss= 1.72223 val_ap= 0.64881 time= 1.89610
+
+Epoch 0018 train loss= 1.72294 val_ap= 0.66303 time= 1.88973
+
+Epoch 0019 train loss= 1.73142 val_ap= 0.66859 time= 1.91659
+
+Epoch 0020 train loss= 1.73301 val_ap= 0.64433 time= 1.90509
+Optimization Finished! 
+Test ROC score: 0.7418201639843227
+Test AP score: 0.6528830779857604
+
+Settings: hidden1128, hidden28, lr:0.001
+
+Epoch 0001 train loss= 1.30347 val_ap= 0.65564 time= 1.92925
+
+Epoch 0002 train loss= 1.32022 val_ap= 0.64839 time= 1.89692
+
+Epoch 0003 train loss= 1.30914 val_ap= 0.66258 time= 1.89903
+
+Epoch 0004 train loss= 1.31372 val_ap= 0.65450 time= 1.87918
+
+Epoch 0005 train loss= 1.30277 val_ap= 0.67012 time= 1.91716
+
+Epoch 0006 train loss= 1.32335 val_ap= 0.63915 time= 1.93515
+
+Epoch 0007 train loss= 1.31355 val_ap= 0.63662 time= 1.92233
+
+Epoch 0008 train loss= 1.31560 val_ap= 0.64679 time= 1.91544
+
+Epoch 0009 train loss= 1.32861 val_ap= 0.65552 time= 1.93134
+
+Epoch 0010 train loss= 1.31181 val_ap= 0.65819 time= 1.93068
+
+Epoch 0011 train loss= 1.31120 val_ap= 0.63799 time= 1.94255
+
+Epoch 0012 train loss= 1.31521 val_ap= 0.68086 time= 1.90669
+
+Epoch 0013 train loss= 1.31616 val_ap= 0.63204 time= 1.88034
+
+Epoch 0014 train loss= 1.31439 val_ap= 0.64753 time= 1.94233
+
+Epoch 0015 train loss= 1.31050 val_ap= 0.65152 time= 1.91284
+
+Epoch 0016 train loss= 1.31301 val_ap= 0.64219 time= 1.89858
+
+Epoch 0017 train loss= 1.30841 val_ap= 0.67166 time= 1.96566
+
+Epoch 0018 train loss= 1.32003 val_ap= 0.66408 time= 1.86989
+
+Epoch 0019 train loss= 1.31184 val_ap= 0.67402 time= 1.96047
+
+Epoch 0020 train loss= 1.31482 val_ap= 0.66076 time= 1.91463
+Optimization Finished! 
+Test ROC score: 0.7542131322810348
+Test AP score: 0.6708738244965806
+
+Settings: hidden1128, hidden28, lr:0.01
+
+Epoch 0001 train loss= 1.32019 val_ap= 0.67674 time= 1.91040
+
+Epoch 0002 train loss= 1.33101 val_ap= 0.64818 time= 1.91463
+
+Epoch 0003 train loss= 1.33067 val_ap= 0.65733 time= 1.93068
+
+Epoch 0004 train loss= 1.31128 val_ap= 0.65070 time= 1.92630
+
+Epoch 0005 train loss= 1.31797 val_ap= 0.63132 time= 1.90102
+
+Epoch 0006 train loss= 1.32384 val_ap= 0.65745 time= 1.88520
+
+Epoch 0007 train loss= 1.31594 val_ap= 0.66209 time= 1.89236
+
+Epoch 0008 train loss= 1.31580 val_ap= 0.65302 time= 1.89504
+
+Epoch 0009 train loss= 1.31792 val_ap= 0.64344 time= 1.90599
+
+Epoch 0010 train loss= 1.30578 val_ap= 0.66018 time= 1.89197
+
+Epoch 0011 train loss= 1.31788 val_ap= 0.64326 time= 1.90256
+
+Epoch 0012 train loss= 1.32803 val_ap= 0.66451 time= 1.90396
+
+Epoch 0013 train loss= 1.31981 val_ap= 0.65578 time= 1.88063
+
+Epoch 0014 train loss= 1.30528 val_ap= 0.64100 time= 1.89101
+
+Epoch 0015 train loss= 1.30744 val_ap= 0.67204 time= 1.89264
+
+Epoch 0016 train loss= 1.31672 val_ap= 0.66441 time= 1.87978
+
+Epoch 0017 train loss= 1.30510 val_ap= 0.65389 time= 1.90667
+
+Epoch 0018 train loss= 1.32034 val_ap= 0.67078 time= 1.89636
+
+Epoch 0019 train loss= 1.31135 val_ap= 0.66484 time= 1.92010
+
+Epoch 0020 train loss= 1.31703 val_ap= 0.65784 time= 1.91000
+Optimization Finished! 
+Test ROC score: 0.753187094110796
+Test AP score: 0.6657435107284904
+
+Settings: hidden1128, hidden28, lr:0.1
+
+Epoch 0001 train loss= 1.31792 val_ap= 0.68072 time= 1.91426
+
+Epoch 0002 train loss= 1.30983 val_ap= 0.65659 time= 1.90026
+
+Epoch 0003 train loss= 1.31327 val_ap= 0.66378 time= 1.90182
+
+Epoch 0004 train loss= 1.31415 val_ap= 0.64933 time= 1.88994
+
+Epoch 0005 train loss= 1.32394 val_ap= 0.65851 time= 1.95959
+
+Epoch 0006 train loss= 1.30759 val_ap= 0.67851 time= 1.90564
+
+Epoch 0007 train loss= 1.30854 val_ap= 0.65103 time= 1.92569
+
+Epoch 0008 train loss= 1.31169 val_ap= 0.65239 time= 1.91736
+
+Epoch 0009 train loss= 1.30737 val_ap= 0.65530 time= 1.92615
+
+Epoch 0010 train loss= 1.30381 val_ap= 0.66331 time= 1.92781
+
+Epoch 0011 train loss= 1.30997 val_ap= 0.65991 time= 1.92255
+
+Epoch 0012 train loss= 1.32222 val_ap= 0.66771 time= 1.91110
+
+Epoch 0013 train loss= 1.30801 val_ap= 0.63241 time= 1.89604
+
+Epoch 0014 train loss= 1.31177 val_ap= 0.66480 time= 1.91535
+
+Epoch 0015 train loss= 1.30211 val_ap= 0.66899 time= 1.91317
+
+Epoch 0016 train loss= 1.31291 val_ap= 0.65606 time= 1.90510
+
+Epoch 0017 train loss= 1.33328 val_ap= 0.65509 time= 1.92140
+
+Epoch 0018 train loss= 1.31220 val_ap= 0.66542 time= 1.91093
+
+Epoch 0019 train loss= 1.31828 val_ap= 0.66212 time= 1.92698
+
+Epoch 0020 train loss= 1.30809 val_ap= 0.65131 time= 1.90667
+Optimization Finished! 
+Test ROC score: 0.7463650017986088
+Test AP score: 0.6579948533373554
+
+Settings: hidden164, hidden264, lr:0.001
+
+Epoch 0001 train loss= 3.25723 val_ap= 0.65100 time= 1.99626
+
+Epoch 0002 train loss= 3.26624 val_ap= 0.65294 time= 2.00266
+
+Epoch 0003 train loss= 3.25756 val_ap= 0.65680 time= 1.99288
+
+Epoch 0004 train loss= 3.24017 val_ap= 0.65451 time= 2.00188
+
+Epoch 0005 train loss= 3.25053 val_ap= 0.64763 time= 2.00895
+
+Epoch 0006 train loss= 3.24515 val_ap= 0.66140 time= 2.00450
+
+Epoch 0007 train loss= 3.25201 val_ap= 0.65618 time= 2.01498
+
+Epoch 0008 train loss= 3.25337 val_ap= 0.64563 time= 2.00515
+
+Epoch 0009 train loss= 3.24945 val_ap= 0.64968 time= 2.01411
+
+Epoch 0010 train loss= 3.26508 val_ap= 0.65004 time= 1.99349
+
+Epoch 0011 train loss= 3.24702 val_ap= 0.66019 time= 1.99539
+
+Epoch 0012 train loss= 3.23878 val_ap= 0.64519 time= 1.98849
+
+Epoch 0013 train loss= 3.26220 val_ap= 0.64246 time= 1.99340
+
+Epoch 0014 train loss= 3.23943 val_ap= 0.64517 time= 2.00901
+
+Epoch 0015 train loss= 3.26792 val_ap= 0.65909 time= 2.05001
+
+Epoch 0016 train loss= 3.24662 val_ap= 0.65347 time= 2.01963
+
+Epoch 0017 train loss= 3.25657 val_ap= 0.66545 time= 2.01994
+
+Epoch 0018 train loss= 3.24648 val_ap= 0.65205 time= 1.99098
+
+Epoch 0019 train loss= 3.24249 val_ap= 0.66321 time= 2.00091
+
+Epoch 0020 train loss= 3.24886 val_ap= 0.64901 time= 2.00693
+Optimization Finished! 
+Test ROC score: 0.741679765261011
+Test AP score: 0.6570372152949259
+
+Settings: hidden164, hidden264, lr:0.01
+
+Epoch 0001 train loss= 3.24251 val_ap= 0.66096 time= 2.00837
+
+Epoch 0002 train loss= 3.27417 val_ap= 0.66348 time= 1.98796
+
+Epoch 0003 train loss= 3.24377 val_ap= 0.64942 time= 1.99016
+
+Epoch 0004 train loss= 3.25481 val_ap= 0.64443 time= 1.99960
+
+Epoch 0005 train loss= 3.27138 val_ap= 0.64757 time= 2.00909
+
+Epoch 0006 train loss= 3.25081 val_ap= 0.65520 time= 2.01461
+
+Epoch 0007 train loss= 3.27035 val_ap= 0.65041 time= 2.02257
+
+Epoch 0008 train loss= 3.24549 val_ap= 0.66023 time= 2.01268
+
+Epoch 0009 train loss= 3.26144 val_ap= 0.65519 time= 2.02623
+
+Epoch 0010 train loss= 3.24934 val_ap= 0.64881 time= 2.01972
+
+Epoch 0011 train loss= 3.24998 val_ap= 0.65533 time= 2.04587
+
+Epoch 0012 train loss= 3.25533 val_ap= 0.64789 time= 2.00604
+
+Epoch 0013 train loss= 3.24072 val_ap= 0.64967 time= 2.01348
+
+Epoch 0014 train loss= 3.24584 val_ap= 0.64731 time= 2.01747
+
+Epoch 0015 train loss= 3.26126 val_ap= 0.63804 time= 2.04547
+
+Epoch 0016 train loss= 3.25377 val_ap= 0.65177 time= 2.02317
+
+Epoch 0017 train loss= 3.24984 val_ap= 0.65650 time= 2.04921
+
+Epoch 0018 train loss= 3.26189 val_ap= 0.65226 time= 2.01955
+
+Epoch 0019 train loss= 3.25093 val_ap= 0.65220 time= 2.00979
+
+Epoch 0020 train loss= 3.26007 val_ap= 0.64938 time= 2.03523
+Optimization Finished! 
+Test ROC score: 0.742868294385008
+Test AP score: 0.6572321908506475
+
+Settings: hidden164, hidden264, lr:0.1
+
+Epoch 0001 train loss= 3.26941 val_ap= 0.66050 time= 2.00928
+
+Epoch 0002 train loss= 3.27420 val_ap= 0.65332 time= 1.99772
+
+Epoch 0003 train loss= 3.24851 val_ap= 0.65061 time= 2.00686
+
+Epoch 0004 train loss= 3.26304 val_ap= 0.64224 time= 2.02196
+
+Epoch 0005 train loss= 3.27273 val_ap= 0.65792 time= 2.00666
+
+Epoch 0006 train loss= 3.25191 val_ap= 0.65498 time= 2.00382
+
+Epoch 0007 train loss= 3.25935 val_ap= 0.65349 time= 2.00312
+
+Epoch 0008 train loss= 3.25291 val_ap= 0.65478 time= 2.00014
+
+Epoch 0009 train loss= 3.24863 val_ap= 0.67204 time= 1.98855
+
+Epoch 0010 train loss= 3.26740 val_ap= 0.64738 time= 1.98100
+
+Epoch 0011 train loss= 3.25773 val_ap= 0.65278 time= 2.00018
+
+Epoch 0012 train loss= 3.26256 val_ap= 0.64994 time= 1.98673
+
+Epoch 0013 train loss= 3.24831 val_ap= 0.65452 time= 1.98622
+
+Epoch 0014 train loss= 3.24929 val_ap= 0.64985 time= 2.00139
+
+Epoch 0015 train loss= 3.25604 val_ap= 0.64614 time= 1.99855
+
+Epoch 0016 train loss= 3.24895 val_ap= 0.65261 time= 1.99990
+
+Epoch 0017 train loss= 3.26007 val_ap= 0.64796 time= 1.98530
+
+Epoch 0018 train loss= 3.25964 val_ap= 0.65357 time= 1.98413
+
+Epoch 0019 train loss= 3.27148 val_ap= 0.66094 time= 2.02798
+
+Epoch 0020 train loss= 3.25836 val_ap= 0.65187 time= 1.98213
+Optimization Finished! 
+Test ROC score: 0.7429904968935783
+Test AP score: 0.6580413144082883
+
+Settings: hidden164, hidden232, lr:0.001
+
+Epoch 0001 train loss= 2.34469 val_ap= 0.65647 time= 1.85906
+
+Epoch 0002 train loss= 2.35752 val_ap= 0.63942 time= 1.85278
+
+Epoch 0003 train loss= 2.36154 val_ap= 0.65707 time= 1.86301
+
+Epoch 0004 train loss= 2.36038 val_ap= 0.66223 time= 1.87823
+
+Epoch 0005 train loss= 2.35438 val_ap= 0.64843 time= 1.85985
+
+Epoch 0006 train loss= 2.33875 val_ap= 0.65068 time= 1.83271
+
+Epoch 0007 train loss= 2.35053 val_ap= 0.64747 time= 1.87475
+
+Epoch 0008 train loss= 2.35273 val_ap= 0.65260 time= 1.84590
+
+Epoch 0009 train loss= 2.34217 val_ap= 0.65293 time= 1.87565
+
+Epoch 0010 train loss= 2.33860 val_ap= 0.65252 time= 1.85606
+
+Epoch 0011 train loss= 2.35828 val_ap= 0.64083 time= 1.88616
+
+Epoch 0012 train loss= 2.35064 val_ap= 0.65828 time= 1.85046
+
+Epoch 0013 train loss= 2.33798 val_ap= 0.65819 time= 1.86970
+
+Epoch 0014 train loss= 2.34237 val_ap= 0.64559 time= 1.82970
+
+Epoch 0015 train loss= 2.36091 val_ap= 0.66045 time= 1.84943
+
+Epoch 0016 train loss= 2.35490 val_ap= 0.65399 time= 1.84044
+
+Epoch 0017 train loss= 2.34849 val_ap= 0.65606 time= 1.85911
+
+Epoch 0018 train loss= 2.35732 val_ap= 0.66349 time= 1.84615
+
+Epoch 0019 train loss= 2.35584 val_ap= 0.65304 time= 1.83313
+
+Epoch 0020 train loss= 2.36519 val_ap= 0.64817 time= 1.84498
+Optimization Finished! 
+Test ROC score: 0.7430732150377394
+Test AP score: 0.6553965490745779
+
+Settings: hidden164, hidden232, lr:0.01
+
+Epoch 0001 train loss= 2.35903 val_ap= 0.65286 time= 1.84077
+
+Epoch 0002 train loss= 2.34982 val_ap= 0.66164 time= 1.83837
+
+Epoch 0003 train loss= 2.32678 val_ap= 0.68156 time= 1.84902
+
+Epoch 0004 train loss= 2.33624 val_ap= 0.65544 time= 1.83179
+
+Epoch 0005 train loss= 2.34961 val_ap= 0.65571 time= 1.83363
+
+Epoch 0006 train loss= 2.34582 val_ap= 0.65307 time= 1.85477
+
+Epoch 0007 train loss= 2.35395 val_ap= 0.65252 time= 1.85705
+
+Epoch 0008 train loss= 2.36478 val_ap= 0.65283 time= 1.82963
+
+Epoch 0009 train loss= 2.34438 val_ap= 0.65228 time= 1.83771
+
+Epoch 0010 train loss= 2.35631 val_ap= 0.67312 time= 1.83104
+
+Epoch 0011 train loss= 2.35463 val_ap= 0.66632 time= 1.86532
+
+Epoch 0012 train loss= 2.34403 val_ap= 0.65792 time= 1.83079
+
+Epoch 0013 train loss= 2.33606 val_ap= 0.65226 time= 1.82951
+
+Epoch 0014 train loss= 2.34604 val_ap= 0.64686 time= 1.82754
+
+Epoch 0015 train loss= 2.34572 val_ap= 0.66281 time= 1.84610
+
+Epoch 0016 train loss= 2.35030 val_ap= 0.65236 time= 1.84754
+
+Epoch 0017 train loss= 2.35187 val_ap= 0.65460 time= 1.92832
+
+Epoch 0018 train loss= 2.35763 val_ap= 0.65649 time= 1.87008
+
+Epoch 0019 train loss= 2.34391 val_ap= 0.65091 time= 1.91077
+
+Epoch 0020 train loss= 2.33891 val_ap= 0.65876 time= 1.85424
+Optimization Finished! 
+Test ROC score: 0.7477704594777894
+Test AP score: 0.6649613201579132
+
+Settings: hidden164, hidden232, lr:0.1
+
+Epoch 0001 train loss= 2.35121 val_ap= 0.64727 time= 1.88547
+
+Epoch 0002 train loss= 2.34900 val_ap= 0.65601 time= 1.84037
+
+Epoch 0003 train loss= 2.36008 val_ap= 0.65809 time= 1.86496
+
+Epoch 0004 train loss= 2.36695 val_ap= 0.65909 time= 1.86219
+
+Epoch 0005 train loss= 2.35398 val_ap= 0.65793 time= 1.86633
+
+Epoch 0006 train loss= 2.34853 val_ap= 0.66410 time= 1.84082
+
+Epoch 0007 train loss= 2.34405 val_ap= 0.65075 time= 1.85337
+
+Epoch 0008 train loss= 2.35622 val_ap= 0.65183 time= 1.86078
+
+Epoch 0009 train loss= 2.35945 val_ap= 0.64852 time= 1.85616
+
+Epoch 0010 train loss= 2.36018 val_ap= 0.65012 time= 1.92507
+
+Epoch 0011 train loss= 2.32777 val_ap= 0.65288 time= 1.84742
+
+Epoch 0012 train loss= 2.37533 val_ap= 0.65037 time= 1.84301
+
+Epoch 0013 train loss= 2.37137 val_ap= 0.65503 time= 1.86433
+
+Epoch 0014 train loss= 2.34407 val_ap= 0.64999 time= 1.85553
+
+Epoch 0015 train loss= 2.36287 val_ap= 0.66069 time= 1.84809
+
+Epoch 0016 train loss= 2.34699 val_ap= 0.66358 time= 1.81745
+
+Epoch 0017 train loss= 2.36192 val_ap= 0.65003 time= 1.83017
+
+Epoch 0018 train loss= 2.34953 val_ap= 0.65416 time= 1.84662
+
+Epoch 0019 train loss= 2.33422 val_ap= 0.65788 time= 1.86345
+
+Epoch 0020 train loss= 2.34458 val_ap= 0.66719 time= 1.85269
+Optimization Finished! 
+Test ROC score: 0.7549414873083047
+Test AP score: 0.6745376513911354
+
+Settings: hidden164, hidden216, lr:0.001
+
+Epoch 0001 train loss= 1.72489 val_ap= 0.64239 time= 1.79584
+
+Epoch 0002 train loss= 1.72941 val_ap= 0.65915 time= 1.81853
+
+Epoch 0003 train loss= 1.72921 val_ap= 0.66534 time= 1.82254
+
+Epoch 0004 train loss= 1.74747 val_ap= 0.65732 time= 1.79197
+
+Epoch 0005 train loss= 1.73972 val_ap= 0.65054 time= 1.78897
+
+Epoch 0006 train loss= 1.72041 val_ap= 0.64629 time= 1.79957
+
+Epoch 0007 train loss= 1.72323 val_ap= 0.65995 time= 1.78847
+
+Epoch 0008 train loss= 1.72935 val_ap= 0.66867 time= 1.80058
+
+Epoch 0009 train loss= 1.71071 val_ap= 0.65782 time= 1.82009
+
+Epoch 0010 train loss= 1.72954 val_ap= 0.65149 time= 1.78660
+
+Epoch 0011 train loss= 1.71976 val_ap= 0.67055 time= 1.80273
+
+Epoch 0012 train loss= 1.71730 val_ap= 0.66087 time= 1.80210
+
+Epoch 0013 train loss= 1.73772 val_ap= 0.66150 time= 1.79993
+
+Epoch 0014 train loss= 1.73451 val_ap= 0.65536 time= 1.78307
+
+Epoch 0015 train loss= 1.72702 val_ap= 0.64865 time= 1.80669
+
+Epoch 0016 train loss= 1.71686 val_ap= 0.63685 time= 1.78121
+
+Epoch 0017 train loss= 1.73274 val_ap= 0.65610 time= 1.80473
+
+Epoch 0018 train loss= 1.72444 val_ap= 0.64493 time= 1.78374
+
+Epoch 0019 train loss= 1.72591 val_ap= 0.67461 time= 1.84953
+
+Epoch 0020 train loss= 1.73234 val_ap= 0.65860 time= 1.80737
+Optimization Finished! 
+Test ROC score: 0.7494160130119285
+Test AP score: 0.6662293605904971
+
+Settings: hidden164, hidden216, lr:0.01
+
+Epoch 0001 train loss= 1.72601 val_ap= 0.66772 time= 1.79320
+
+Epoch 0002 train loss= 1.72769 val_ap= 0.67208 time= 1.76807
+
+Epoch 0003 train loss= 1.73243 val_ap= 0.66307 time= 1.79801
+
+Epoch 0004 train loss= 1.71229 val_ap= 0.64757 time= 1.77325
+
+Epoch 0005 train loss= 1.73049 val_ap= 0.66601 time= 1.79591
+
+Epoch 0006 train loss= 1.71924 val_ap= 0.64585 time= 1.77996
+
+Epoch 0007 train loss= 1.72821 val_ap= 0.66793 time= 1.79435
+
+Epoch 0008 train loss= 1.73568 val_ap= 0.65196 time= 1.76620
+
+Epoch 0009 train loss= 1.72818 val_ap= 0.64705 time= 1.79253
+
+Epoch 0010 train loss= 1.72931 val_ap= 0.65997 time= 1.77651
+
+Epoch 0011 train loss= 1.73713 val_ap= 0.65127 time= 1.77635
+
+Epoch 0012 train loss= 1.71995 val_ap= 0.64106 time= 1.77751
+
+Epoch 0013 train loss= 1.74122 val_ap= 0.66054 time= 1.80136
+
+Epoch 0014 train loss= 1.72915 val_ap= 0.67407 time= 1.78809
+
+Epoch 0015 train loss= 1.71981 val_ap= 0.65421 time= 1.80471
+
+Epoch 0016 train loss= 1.72825 val_ap= 0.65979 time= 1.77940
+
+Epoch 0017 train loss= 1.73909 val_ap= 0.66172 time= 1.82252
+
+Epoch 0018 train loss= 1.73326 val_ap= 0.66096 time= 1.79609
+
+Epoch 0019 train loss= 1.71800 val_ap= 0.65669 time= 1.80169
+
+Epoch 0020 train loss= 1.73158 val_ap= 0.65703 time= 1.77412
+Optimization Finished! 
+Test ROC score: 0.7486707234215253
+Test AP score: 0.663593109269808
+
+Settings: hidden164, hidden216, lr:0.1
+
+Epoch 0001 train loss= 1.71667 val_ap= 0.65929 time= 1.77905
+
+Epoch 0002 train loss= 1.72587 val_ap= 0.66924 time= 1.77912
+
+Epoch 0003 train loss= 1.73061 val_ap= 0.64654 time= 1.79132
+
+Epoch 0004 train loss= 1.73799 val_ap= 0.65633 time= 1.78287
+
+Epoch 0005 train loss= 1.73912 val_ap= 0.64988 time= 1.78637
+
+Epoch 0006 train loss= 1.74465 val_ap= 0.66886 time= 1.79128
+
+Epoch 0007 train loss= 1.73325 val_ap= 0.65506 time= 1.78683
+
+Epoch 0008 train loss= 1.72606 val_ap= 0.66615 time= 1.78502
+
+Epoch 0009 train loss= 1.73090 val_ap= 0.66570 time= 1.80292
+
+Epoch 0010 train loss= 1.73207 val_ap= 0.66278 time= 1.80887
+
+Epoch 0011 train loss= 1.71007 val_ap= 0.65850 time= 1.80705
+
+Epoch 0012 train loss= 1.72446 val_ap= 0.64146 time= 1.84127
+
+Epoch 0013 train loss= 1.73152 val_ap= 0.66582 time= 1.81977
+
+Epoch 0014 train loss= 1.73462 val_ap= 0.64098 time= 1.79692
+
+Epoch 0015 train loss= 1.72482 val_ap= 0.64493 time= 1.81575
+
+Epoch 0016 train loss= 1.73220 val_ap= 0.67707 time= 1.85122
+
+Epoch 0017 train loss= 1.71028 val_ap= 0.65214 time= 1.81523
+
+Epoch 0018 train loss= 1.73939 val_ap= 0.65369 time= 1.79951
+
+Epoch 0019 train loss= 1.72614 val_ap= 0.65631 time= 1.80390
+
+Epoch 0020 train loss= 1.71667 val_ap= 0.66407 time= 1.79832
+Optimization Finished! 
+Test ROC score: 0.7531903593006972
+Test AP score: 0.6738538589845108
+
+Settings: hidden164, hidden28, lr:0.001
+
+Epoch 0001 train loss= 1.30719 val_ap= 0.66367 time= 2.01574
+
+Epoch 0002 train loss= 1.30552 val_ap= 0.64461 time= 1.82430
+
+Epoch 0003 train loss= 1.31228 val_ap= 0.68484 time= 1.81549
+
+Epoch 0004 train loss= 1.31273 val_ap= 0.67019 time= 1.81877
+
+Epoch 0005 train loss= 1.30381 val_ap= 0.64216 time= 1.83951
+
+Epoch 0006 train loss= 1.31136 val_ap= 0.65528 time= 1.84303
+
+Epoch 0007 train loss= 1.32378 val_ap= 0.66483 time= 1.81746
+
+Epoch 0008 train loss= 1.30771 val_ap= 0.66885 time= 1.79146
+
+Epoch 0009 train loss= 1.30553 val_ap= 0.66548 time= 1.81874
+
+Epoch 0010 train loss= 1.30679 val_ap= 0.64850 time= 1.81796
+
+Epoch 0011 train loss= 1.31243 val_ap= 0.67543 time= 1.81740
+
+Epoch 0012 train loss= 1.30906 val_ap= 0.65667 time= 1.85476
+
+Epoch 0013 train loss= 1.30845 val_ap= 0.65079 time= 1.82000
+
+Epoch 0014 train loss= 1.31336 val_ap= 0.66138 time= 1.82107
+
+Epoch 0015 train loss= 1.30904 val_ap= 0.64964 time= 1.82977
+
+Epoch 0016 train loss= 1.31941 val_ap= 0.67868 time= 1.84223
+
+Epoch 0017 train loss= 1.31201 val_ap= 0.67871 time= 1.83280
+
+Epoch 0018 train loss= 1.31465 val_ap= 0.66193 time= 1.85936
+
+Epoch 0019 train loss= 1.30161 val_ap= 0.65005 time= 1.85884
+
+Epoch 0020 train loss= 1.31975 val_ap= 0.66550 time= 1.83505
+Optimization Finished! 
+Test ROC score: 0.7551519387929092
+Test AP score: 0.6707021319711336
+
+Settings: hidden164, hidden28, lr:0.01
+
+Epoch 0001 train loss= 1.32102 val_ap= 0.65715 time= 1.86849
+
+Epoch 0002 train loss= 1.32681 val_ap= 0.67701 time= 1.81642
+
+Epoch 0003 train loss= 1.30678 val_ap= 0.68318 time= 1.84212
+
+Epoch 0004 train loss= 1.31687 val_ap= 0.63757 time= 1.86629
+
+Epoch 0005 train loss= 1.30852 val_ap= 0.67144 time= 1.81364
+
+Epoch 0006 train loss= 1.30506 val_ap= 0.66581 time= 1.82556
+
+Epoch 0007 train loss= 1.31020 val_ap= 0.65336 time= 1.82904
+
+Epoch 0008 train loss= 1.31599 val_ap= 0.64673 time= 1.81194
+
+Epoch 0009 train loss= 1.31917 val_ap= 0.67149 time= 1.82619
+
+Epoch 0010 train loss= 1.30879 val_ap= 0.64813 time= 1.81542
+
+Epoch 0011 train loss= 1.32115 val_ap= 0.66662 time= 1.82572
+
+Epoch 0012 train loss= 1.31536 val_ap= 0.66608 time= 1.81987
+
+Epoch 0013 train loss= 1.31379 val_ap= 0.66188 time= 1.80590
+
+Epoch 0014 train loss= 1.31723 val_ap= 0.64120 time= 1.80667
+
+Epoch 0015 train loss= 1.31918 val_ap= 0.66373 time= 1.82319
+
+Epoch 0016 train loss= 1.30764 val_ap= 0.65462 time= 1.80446
+
+Epoch 0017 train loss= 1.30687 val_ap= 0.65486 time= 1.83257
+
+Epoch 0018 train loss= 1.31428 val_ap= 0.64537 time= 1.80510
+
+Epoch 0019 train loss= 1.30771 val_ap= 0.66499 time= 1.81259
+
+Epoch 0020 train loss= 1.31209 val_ap= 0.65084 time= 1.81254
+Optimization Finished! 
+Test ROC score: 0.7516716284077776
+Test AP score: 0.6575414315987373
+
+Settings: hidden164, hidden28, lr:0.1
+
+Epoch 0001 train loss= 1.31616 val_ap= 0.66100 time= 1.79837
+
+Epoch 0002 train loss= 1.31861 val_ap= 0.66867 time= 1.81177
+
+Epoch 0003 train loss= 1.30969 val_ap= 0.69071 time= 1.80206
+
+Epoch 0004 train loss= 1.30537 val_ap= 0.64306 time= 1.79963
+
+Epoch 0005 train loss= 1.31656 val_ap= 0.65617 time= 1.80197
+
+Epoch 0006 train loss= 1.31917 val_ap= 0.67351 time= 1.79312
+
+Epoch 0007 train loss= 1.31770 val_ap= 0.64598 time= 1.81414
+
+Epoch 0008 train loss= 1.32574 val_ap= 0.68316 time= 1.80210
+
+Epoch 0009 train loss= 1.31411 val_ap= 0.65456 time= 1.83359
+
+Epoch 0010 train loss= 1.30758 val_ap= 0.65125 time= 1.81270
+
+Epoch 0011 train loss= 1.30693 val_ap= 0.66320 time= 1.83528
+
+Epoch 0012 train loss= 1.31330 val_ap= 0.66056 time= 1.80526
+
+Epoch 0013 train loss= 1.30816 val_ap= 0.65808 time= 1.81311
+
+Epoch 0014 train loss= 1.31576 val_ap= 0.64278 time= 1.81504
+
+Epoch 0015 train loss= 1.32035 val_ap= 0.64055 time= 1.82910
+
+Epoch 0016 train loss= 1.30823 val_ap= 0.65891 time= 1.81995
+
+Epoch 0017 train loss= 1.31183 val_ap= 0.66584 time= 1.84992
+
+Epoch 0018 train loss= 1.31096 val_ap= 0.68203 time= 1.82956
+
+Epoch 0019 train loss= 1.31632 val_ap= 0.64297 time= 1.81596
+
+Epoch 0020 train loss= 1.31991 val_ap= 0.64089 time= 1.82490
+Optimization Finished! 
+Test ROC score: 0.735729683004436
+Test AP score: 0.6447825435133394
+
+Settings: hidden132, hidden264, lr:0.001
+
+Epoch 0001 train loss= 3.23744 val_ap= 0.65449 time= 1.98981
+
+Epoch 0002 train loss= 3.25830 val_ap= 0.66652 time= 1.96519
+
+Epoch 0003 train loss= 3.26538 val_ap= 0.66355 time= 1.98209
+
+Epoch 0004 train loss= 3.26966 val_ap= 0.65328 time= 1.99438
+
+Epoch 0005 train loss= 3.24592 val_ap= 0.65118 time= 1.95565
+
+Epoch 0006 train loss= 3.25899 val_ap= 0.65389 time= 1.91810
+
+Epoch 0007 train loss= 3.25443 val_ap= 0.64705 time= 1.93767
+
+Epoch 0008 train loss= 3.25057 val_ap= 0.64809 time= 1.92771
+
+Epoch 0009 train loss= 3.26585 val_ap= 0.64935 time= 1.94184
+
+Epoch 0010 train loss= 3.25532 val_ap= 0.65060 time= 1.92998
+
+Epoch 0011 train loss= 3.24936 val_ap= 0.65483 time= 1.94137
+
+Epoch 0012 train loss= 3.27562 val_ap= 0.65179 time= 1.93743
+
+Epoch 0013 train loss= 3.24766 val_ap= 0.66263 time= 1.93860
+
+Epoch 0014 train loss= 3.25359 val_ap= 0.65174 time= 1.91815
+
+Epoch 0015 train loss= 3.26156 val_ap= 0.65171 time= 1.91945
+
+Epoch 0016 train loss= 3.27567 val_ap= 0.64607 time= 1.93502
+
+Epoch 0017 train loss= 3.25707 val_ap= 0.64508 time= 1.93541
+
+Epoch 0018 train loss= 3.27524 val_ap= 0.64669 time= 1.94598
+
+Epoch 0019 train loss= 3.26347 val_ap= 0.66832 time= 1.94056
+
+Epoch 0020 train loss= 3.25807 val_ap= 0.65326 time= 1.95000
+Optimization Finished! 
+Test ROC score: 0.7464998297081299
+Test AP score: 0.6619478886804342
+
+Settings: hidden132, hidden264, lr:0.01
+
+Epoch 0001 train loss= 3.24958 val_ap= 0.65136 time= 1.96553
+
+Epoch 0002 train loss= 3.25278 val_ap= 0.67043 time= 1.95148
+
+Epoch 0003 train loss= 3.26487 val_ap= 0.65148 time= 1.96048
+
+Epoch 0004 train loss= 3.25347 val_ap= 0.64996 time= 1.94528
+
+Epoch 0005 train loss= 3.26347 val_ap= 0.65151 time= 1.96577
+
+Epoch 0006 train loss= 3.25149 val_ap= 0.65127 time= 1.95870
+
+Epoch 0007 train loss= 3.24792 val_ap= 0.65100 time= 1.97603
+
+Epoch 0008 train loss= 3.26344 val_ap= 0.66785 time= 1.92706
+
+Epoch 0009 train loss= 3.25648 val_ap= 0.66766 time= 1.95515
+
+Epoch 0010 train loss= 3.26012 val_ap= 0.67094 time= 1.97821
+
+Epoch 0011 train loss= 3.23742 val_ap= 0.65421 time= 1.95744
+
+Epoch 0012 train loss= 3.26938 val_ap= 0.64032 time= 1.93359
+
+Epoch 0013 train loss= 3.26334 val_ap= 0.65869 time= 1.94495
+
+Epoch 0014 train loss= 3.24365 val_ap= 0.65238 time= 1.92226
+
+Epoch 0015 train loss= 3.25553 val_ap= 0.65194 time= 1.92593
+
+Epoch 0016 train loss= 3.25499 val_ap= 0.64968 time= 1.91890
+
+Epoch 0017 train loss= 3.24313 val_ap= 0.66170 time= 1.93470
+
+Epoch 0018 train loss= 3.25882 val_ap= 0.63835 time= 1.93844
+
+Epoch 0019 train loss= 3.24922 val_ap= 0.65876 time= 1.94250
+
+Epoch 0020 train loss= 3.24976 val_ap= 0.65115 time= 1.93268
+Optimization Finished! 
+Test ROC score: 0.7446445843458124
+Test AP score: 0.6581276660191752
+
+Settings: hidden132, hidden264, lr:0.1
+
+Epoch 0001 train loss= 3.26107 val_ap= 0.65325 time= 1.96605
+
+Epoch 0002 train loss= 3.26741 val_ap= 0.66043 time= 1.96244
+
+Epoch 0003 train loss= 3.25410 val_ap= 0.65362 time= 1.98364
+
+Epoch 0004 train loss= 3.25171 val_ap= 0.66075 time= 1.97590
+
+Epoch 0005 train loss= 3.24022 val_ap= 0.65261 time= 1.97182
+
+Epoch 0006 train loss= 3.25504 val_ap= 0.65158 time= 1.96786
+
+Epoch 0007 train loss= 3.24811 val_ap= 0.66766 time= 1.99537
+
+Epoch 0008 train loss= 3.23929 val_ap= 0.65267 time= 1.96299
+
+Epoch 0009 train loss= 3.25788 val_ap= 0.64899 time= 1.95446
+
+Epoch 0010 train loss= 3.25592 val_ap= 0.65549 time= 1.92827
+
+Epoch 0011 train loss= 3.24844 val_ap= 0.66122 time= 1.95048
+
+Epoch 0012 train loss= 3.26511 val_ap= 0.65237 time= 1.93594
+
+Epoch 0013 train loss= 3.25634 val_ap= 0.64855 time= 1.94954
+
+Epoch 0014 train loss= 3.26952 val_ap= 0.65041 time= 1.93592
+
+Epoch 0015 train loss= 3.27293 val_ap= 0.64452 time= 1.94670
+
+Epoch 0016 train loss= 3.26593 val_ap= 0.65685 time= 1.94319
+
+Epoch 0017 train loss= 3.25679 val_ap= 0.65198 time= 1.96646
+
+Epoch 0018 train loss= 3.25107 val_ap= 0.64362 time= 1.98240
+
+Epoch 0019 train loss= 3.24581 val_ap= 0.65397 time= 1.93856
+
+Epoch 0020 train loss= 3.25300 val_ap= 0.64387 time= 1.92875
+Optimization Finished! 
+Test ROC score: 0.7399392369038853
+Test AP score: 0.6517649150023334
+
+Settings: hidden132, hidden232, lr:0.001
+
+Epoch 0001 train loss= 2.34515 val_ap= 0.66304 time= 1.80266
+
+Epoch 0002 train loss= 2.35989 val_ap= 0.64690 time= 1.82142
+
+Epoch 0003 train loss= 2.34174 val_ap= 0.64942 time= 1.81125
+
+Epoch 0004 train loss= 2.35256 val_ap= 0.65147 time= 1.80996
+
+Epoch 0005 train loss= 2.35396 val_ap= 0.66240 time= 1.82070
+
+Epoch 0006 train loss= 2.35933 val_ap= 0.65165 time= 1.78964
+
+Epoch 0007 train loss= 2.35657 val_ap= 0.66655 time= 1.78997
+
+Epoch 0008 train loss= 2.34810 val_ap= 0.66685 time= 1.80504
+
+Epoch 0009 train loss= 2.35465 val_ap= 0.65025 time= 1.81239
+
+Epoch 0010 train loss= 2.35495 val_ap= 0.65175 time= 1.79711
+
+Epoch 0011 train loss= 2.35406 val_ap= 0.65713 time= 1.82406
+
+Epoch 0012 train loss= 2.33561 val_ap= 0.64797 time= 1.80417
+
+Epoch 0013 train loss= 2.35165 val_ap= 0.66583 time= 1.82033
+
+Epoch 0014 train loss= 2.34383 val_ap= 0.66546 time= 1.80310
+
+Epoch 0015 train loss= 2.33620 val_ap= 0.66064 time= 1.79282
+
+Epoch 0016 train loss= 2.34323 val_ap= 0.66106 time= 1.78608
+
+Epoch 0017 train loss= 2.34518 val_ap= 0.66957 time= 1.78913
+
+Epoch 0018 train loss= 2.35304 val_ap= 0.67043 time= 1.80219
+
+Epoch 0019 train loss= 2.34027 val_ap= 0.66891 time= 1.80784
+
+Epoch 0020 train loss= 2.35513 val_ap= 0.67381 time= 1.79915
+Optimization Finished! 
+Test ROC score: 0.7663529617329249
+Test AP score: 0.6886134813237688
+
+Settings: hidden132, hidden232, lr:0.01
+
+Epoch 0001 train loss= 2.35039 val_ap= 0.65474 time= 1.79650
+
+Epoch 0002 train loss= 2.34470 val_ap= 0.64964 time= 1.78436
+
+Epoch 0003 train loss= 2.35541 val_ap= 0.64818 time= 1.84769
+
+Epoch 0004 train loss= 2.35674 val_ap= 0.64767 time= 1.80391
+
+Epoch 0005 train loss= 2.33674 val_ap= 0.64151 time= 1.82117
+
+Epoch 0006 train loss= 2.34033 val_ap= 0.66147 time= 1.83534
+
+Epoch 0007 train loss= 2.35100 val_ap= 0.64825 time= 1.80514
+
+Epoch 0008 train loss= 2.35443 val_ap= 0.65373 time= 1.80964
+
+Epoch 0009 train loss= 2.35162 val_ap= 0.65382 time= 1.80024
+
+Epoch 0010 train loss= 2.34986 val_ap= 0.66332 time= 1.81269
+
+Epoch 0011 train loss= 2.33720 val_ap= 0.65049 time= 1.82626
+
+Epoch 0012 train loss= 2.34567 val_ap= 0.67565 time= 1.79108
+
+Epoch 0013 train loss= 2.35893 val_ap= 0.65793 time= 1.79918
+
+Epoch 0014 train loss= 2.35380 val_ap= 0.66338 time= 1.79468
+
+Epoch 0015 train loss= 2.34401 val_ap= 0.66444 time= 1.81401
+
+Epoch 0016 train loss= 2.34299 val_ap= 0.66340 time= 1.78084
+
+Epoch 0017 train loss= 2.33878 val_ap= 0.65053 time= 1.79107
+
+Epoch 0018 train loss= 2.34559 val_ap= 0.65555 time= 1.77790
+
+Epoch 0019 train loss= 2.33984 val_ap= 0.66554 time= 1.77479
+
+Epoch 0020 train loss= 2.35642 val_ap= 0.65398 time= 1.78015
+Optimization Finished! 
+Test ROC score: 0.7471316461752086
+Test AP score: 0.6622074702923358
+
+Settings: hidden132, hidden232, lr:0.1
+
+Epoch 0001 train loss= 2.35620 val_ap= 0.66034 time= 1.79647
+
+Epoch 0002 train loss= 2.35488 val_ap= 0.67258 time= 1.77190
+
+Epoch 0003 train loss= 2.35705 val_ap= 0.64602 time= 1.79685
+
+Epoch 0004 train loss= 2.35499 val_ap= 0.63336 time= 1.77941
+
+Epoch 0005 train loss= 2.35542 val_ap= 0.65278 time= 1.78107
+
+Epoch 0006 train loss= 2.34060 val_ap= 0.65837 time= 1.75826
+
+Epoch 0007 train loss= 2.36504 val_ap= 0.65783 time= 1.77653
+
+Epoch 0008 train loss= 2.34166 val_ap= 0.66196 time= 1.76393
+
+Epoch 0009 train loss= 2.35834 val_ap= 0.66234 time= 1.79199
+
+Epoch 0010 train loss= 2.35731 val_ap= 0.66124 time= 1.76782
+
+Epoch 0011 train loss= 2.35455 val_ap= 0.64543 time= 1.77447
+
+Epoch 0012 train loss= 2.35140 val_ap= 0.66180 time= 1.77525
+
+Epoch 0013 train loss= 2.34853 val_ap= 0.64586 time= 1.77081
+
+Epoch 0014 train loss= 2.34990 val_ap= 0.66993 time= 1.79660
+
+Epoch 0015 train loss= 2.34291 val_ap= 0.65494 time= 1.78691
+
+Epoch 0016 train loss= 2.36676 val_ap= 0.64614 time= 1.78151
+
+Epoch 0017 train loss= 2.36231 val_ap= 0.66626 time= 1.79044
+
+Epoch 0018 train loss= 2.35094 val_ap= 0.65794 time= 1.78848
+
+Epoch 0019 train loss= 2.34141 val_ap= 0.65646 time= 1.78460
+
+Epoch 0020 train loss= 2.36460 val_ap= 0.65900 time= 1.77859
+Optimization Finished! 
+Test ROC score: 0.7480484848448231
+Test AP score: 0.665167072652038
+
+Settings: hidden132, hidden216, lr:0.001
+
+Epoch 0001 train loss= 1.73605 val_ap= 0.65818 time= 1.74165
+
+Epoch 0002 train loss= 1.72202 val_ap= 0.65441 time= 1.72967
+
+Epoch 0003 train loss= 1.70590 val_ap= 0.66570 time= 1.73428
+
+Epoch 0004 train loss= 1.73197 val_ap= 0.68110 time= 1.72377
+
+Epoch 0005 train loss= 1.73535 val_ap= 0.67251 time= 1.73163
+
+Epoch 0006 train loss= 1.73420 val_ap= 0.64503 time= 1.70279
+
+Epoch 0007 train loss= 1.74165 val_ap= 0.67362 time= 1.76118
+
+Epoch 0008 train loss= 1.72795 val_ap= 0.66085 time= 1.74926
+
+Epoch 0009 train loss= 1.72337 val_ap= 0.65039 time= 1.76041
+
+Epoch 0010 train loss= 1.71803 val_ap= 0.69098 time= 1.73122
+
+Epoch 0011 train loss= 1.73203 val_ap= 0.64773 time= 1.76002
+
+Epoch 0012 train loss= 1.72800 val_ap= 0.65287 time= 1.73506
+
+Epoch 0013 train loss= 1.71258 val_ap= 0.66881 time= 1.72842
+
+Epoch 0014 train loss= 1.72878 val_ap= 0.65533 time= 1.72705
+
+Epoch 0015 train loss= 1.72641 val_ap= 0.65608 time= 1.72663
+
+Epoch 0016 train loss= 1.72473 val_ap= 0.66720 time= 1.72242
+
+Epoch 0017 train loss= 1.73143 val_ap= 0.66142 time= 1.72054
+
+Epoch 0018 train loss= 1.72206 val_ap= 0.66154 time= 1.73761
+
+Epoch 0019 train loss= 1.70784 val_ap= 0.65270 time= 1.74522
+
+Epoch 0020 train loss= 1.73899 val_ap= 0.65385 time= 1.71750
+Optimization Finished! 
+Test ROC score: 0.7450455629929721
+Test AP score: 0.6561947036908172
+
+Settings: hidden132, hidden216, lr:0.01
+
+Epoch 0001 train loss= 1.72193 val_ap= 0.64702 time= 1.73218
+
+Epoch 0002 train loss= 1.73544 val_ap= 0.65266 time= 1.72448
+
+Epoch 0003 train loss= 1.72500 val_ap= 0.65449 time= 1.73323
+
+Epoch 0004 train loss= 1.71257 val_ap= 0.65352 time= 1.73032
+
+Epoch 0005 train loss= 1.72489 val_ap= 0.65214 time= 1.73055
+
+Epoch 0006 train loss= 1.73042 val_ap= 0.65908 time= 1.72367
+
+Epoch 0007 train loss= 1.73392 val_ap= 0.65241 time= 1.72362
+
+Epoch 0008 train loss= 1.74360 val_ap= 0.64906 time= 1.72418
+
+Epoch 0009 train loss= 1.72509 val_ap= 0.67685 time= 1.73880
+
+Epoch 0010 train loss= 1.73759 val_ap= 0.65161 time= 1.71940
+
+Epoch 0011 train loss= 1.72700 val_ap= 0.66795 time= 1.74340
+
+Epoch 0012 train loss= 1.72268 val_ap= 0.66029 time= 1.72068
+
+Epoch 0013 train loss= 1.71100 val_ap= 0.66232 time= 1.73667
+
+Epoch 0014 train loss= 1.72579 val_ap= 0.64749 time= 1.72934
+
+Epoch 0015 train loss= 1.73161 val_ap= 0.66181 time= 1.72529
+
+Epoch 0016 train loss= 1.73142 val_ap= 0.66825 time= 1.72785
+
+Epoch 0017 train loss= 1.73490 val_ap= 0.64946 time= 1.77023
+
+Epoch 0018 train loss= 1.72302 val_ap= 0.66072 time= 1.76030
+
+Epoch 0019 train loss= 1.73680 val_ap= 0.67189 time= 1.73474
+
+Epoch 0020 train loss= 1.72769 val_ap= 0.67748 time= 1.73263
+Optimization Finished! 
+Test ROC score: 0.7662363211532747
+Test AP score: 0.6857004909959316
+
+Settings: hidden132, hidden216, lr:0.1
+
+Epoch 0001 train loss= 1.73919 val_ap= 0.65311 time= 1.74639
+
+Epoch 0002 train loss= 1.72253 val_ap= 0.65882 time= 1.76266
+
+Epoch 0003 train loss= 1.72918 val_ap= 0.65977 time= 1.74332
+
+Epoch 0004 train loss= 1.72654 val_ap= 0.64912 time= 1.74799
+
+Epoch 0005 train loss= 1.72739 val_ap= 0.63933 time= 1.73657
+
+Epoch 0006 train loss= 1.72394 val_ap= 0.65134 time= 1.73109
+
+Epoch 0007 train loss= 1.73481 val_ap= 0.66861 time= 1.72502
+
+Epoch 0008 train loss= 1.72500 val_ap= 0.65392 time= 1.73237
+
+Epoch 0009 train loss= 1.73624 val_ap= 0.64068 time= 1.75608
+
+Epoch 0010 train loss= 1.72209 val_ap= 0.65500 time= 1.72943
+
+Epoch 0011 train loss= 1.72619 val_ap= 0.65617 time= 1.74885
+
+Epoch 0012 train loss= 1.73643 val_ap= 0.65745 time= 1.75232
+
+Epoch 0013 train loss= 1.73359 val_ap= 0.66267 time= 1.78104
+
+Epoch 0014 train loss= 1.72395 val_ap= 0.64927 time= 1.76499
+
+Epoch 0015 train loss= 1.72781 val_ap= 0.66286 time= 1.76887
+
+Epoch 0016 train loss= 1.73607 val_ap= 0.65472 time= 1.75663
+
+Epoch 0017 train loss= 1.72602 val_ap= 0.64784 time= 1.76213
+
+Epoch 0018 train loss= 1.73658 val_ap= 0.65802 time= 1.74411
+
+Epoch 0019 train loss= 1.72666 val_ap= 0.64593 time= 1.73795
+
+Epoch 0020 train loss= 1.71382 val_ap= 0.65018 time= 1.76119
+Optimization Finished! 
+Test ROC score: 0.7428497561027532
+Test AP score: 0.6572179776833906
+
+Settings: hidden132, hidden28, lr:0.001
+
+Epoch 0001 train loss= 1.31275 val_ap= 0.65154 time= 1.75295
+
+Epoch 0002 train loss= 1.31983 val_ap= 0.65729 time= 1.74893
+
+Epoch 0003 train loss= 1.29969 val_ap= 0.62736 time= 1.74703
+
+Epoch 0004 train loss= 1.30753 val_ap= 0.65088 time= 1.74346
+
+Epoch 0005 train loss= 1.31380 val_ap= 0.65838 time= 1.75621
+
+Epoch 0006 train loss= 1.31311 val_ap= 0.67800 time= 1.75668
+
+Epoch 0007 train loss= 1.31729 val_ap= 0.65797 time= 1.74841
+
+Epoch 0008 train loss= 1.32272 val_ap= 0.67061 time= 1.73584
+
+Epoch 0009 train loss= 1.30400 val_ap= 0.66104 time= 1.73935
+
+Epoch 0010 train loss= 1.31254 val_ap= 0.65400 time= 1.72190
+
+Epoch 0011 train loss= 1.31466 val_ap= 0.66455 time= 1.77140
+
+Epoch 0012 train loss= 1.30925 val_ap= 0.66034 time= 1.72393
+
+Epoch 0013 train loss= 1.32009 val_ap= 0.66936 time= 1.75120
+
+Epoch 0014 train loss= 1.31440 val_ap= 0.65398 time= 1.76058
+
+Epoch 0015 train loss= 1.30274 val_ap= 0.65410 time= 1.75260
+
+Epoch 0016 train loss= 1.30921 val_ap= 0.67355 time= 1.72733
+
+Epoch 0017 train loss= 1.30360 val_ap= 0.67836 time= 1.76797
+
+Epoch 0018 train loss= 1.31697 val_ap= 0.67172 time= 1.73427
+
+Epoch 0019 train loss= 1.31094 val_ap= 0.66033 time= 1.72398
+
+Epoch 0020 train loss= 1.31905 val_ap= 0.64578 time= 1.70838
+Optimization Finished! 
+Test ROC score: 0.7392503440288487
+Test AP score: 0.6506061207463021
+
+Settings: hidden132, hidden28, lr:0.01
+
+Epoch 0001 train loss= 1.30401 val_ap= 0.66056 time= 1.73514
+
+Epoch 0002 train loss= 1.31571 val_ap= 0.68155 time= 1.71258
+
+Epoch 0003 train loss= 1.31026 val_ap= 0.64613 time= 1.73031
+
+Epoch 0004 train loss= 1.31258 val_ap= 0.64341 time= 1.71890
+
+Epoch 0005 train loss= 1.32403 val_ap= 0.67407 time= 1.70881
+
+Epoch 0006 train loss= 1.31054 val_ap= 0.65518 time= 1.72214
+
+Epoch 0007 train loss= 1.30972 val_ap= 0.65757 time= 1.73814
+
+Epoch 0008 train loss= 1.31429 val_ap= 0.64814 time= 1.71315
+
+Epoch 0009 train loss= 1.31146 val_ap= 0.64914 time= 1.72782
+
+Epoch 0010 train loss= 1.28915 val_ap= 0.66879 time= 1.71093
+
+Epoch 0011 train loss= 1.31479 val_ap= 0.65519 time= 1.71032
+
+Epoch 0012 train loss= 1.32791 val_ap= 0.63237 time= 1.71845
+
+Epoch 0013 train loss= 1.32121 val_ap= 0.66370 time= 1.73838
+
+Epoch 0014 train loss= 1.31179 val_ap= 0.64600 time= 1.80316
+
+Epoch 0015 train loss= 1.31794 val_ap= 0.64668 time= 1.75632
+
+Epoch 0016 train loss= 1.31735 val_ap= 0.66808 time= 1.75012
+
+Epoch 0017 train loss= 1.30625 val_ap= 0.64267 time= 1.74023
+
+Epoch 0018 train loss= 1.31987 val_ap= 0.68530 time= 1.74569
+
+Epoch 0019 train loss= 1.32505 val_ap= 0.66909 time= 1.75387
+
+Epoch 0020 train loss= 1.31811 val_ap= 0.66913 time= 1.77362
+Optimization Finished! 
+Test ROC score: 0.7613006023471286
+Test AP score: 0.6781443857340639
+
+Settings: hidden132, hidden28, lr:0.1
+
+Epoch 0001 train loss= 1.31134 val_ap= 0.68593 time= 1.74082
+
+Epoch 0002 train loss= 1.31666 val_ap= 0.65674 time= 1.72585
+
+Epoch 0003 train loss= 1.31024 val_ap= 0.66451 time= 1.73930
+
+Epoch 0004 train loss= 1.31136 val_ap= 0.63985 time= 1.75333
+
+Epoch 0005 train loss= 1.31041 val_ap= 0.66324 time= 1.74251
+
+Epoch 0006 train loss= 1.32878 val_ap= 0.65374 time= 1.72137
+
+Epoch 0007 train loss= 1.31419 val_ap= 0.66010 time= 1.70964
+
+Epoch 0008 train loss= 1.31704 val_ap= 0.64484 time= 1.70026
+
+Epoch 0009 train loss= 1.32029 val_ap= 0.64024 time= 1.71351
+
+Epoch 0010 train loss= 1.31358 val_ap= 0.68801 time= 1.69531
+
+Epoch 0011 train loss= 1.30888 val_ap= 0.66843 time= 1.73259
+
+Epoch 0012 train loss= 1.31568 val_ap= 0.66966 time= 1.72145
+
+Epoch 0013 train loss= 1.30697 val_ap= 0.65939 time= 1.71320
+
+Epoch 0014 train loss= 1.31222 val_ap= 0.66253 time= 1.70700
+
+Epoch 0015 train loss= 1.32428 val_ap= 0.66708 time= 1.71981
+
+Epoch 0016 train loss= 1.30920 val_ap= 0.65703 time= 1.70676
+
+Epoch 0017 train loss= 1.30543 val_ap= 0.64445 time= 1.72461
+
+Epoch 0018 train loss= 1.31253 val_ap= 0.67480 time= 1.71442
+
+Epoch 0019 train loss= 1.31188 val_ap= 0.66869 time= 1.70406
+
+Epoch 0020 train loss= 1.29934 val_ap= 0.65045 time= 1.72135
+Optimization Finished! 
+Test ROC score: 0.7513080017561125
+Test AP score: 0.6585134326359975
+
