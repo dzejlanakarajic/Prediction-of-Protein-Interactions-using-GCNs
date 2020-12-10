@@ -1,4 +1,6 @@
 # Predicting of Protein Interactions using GCNs
+### This project is a part of the Data Science Lab course held in the summer semmester of 2020 at the University of Passau. 
+
 
 Protein-protein interactions (PPIs) are essential to almost every process in a cell. Exploring PPIs is
 crucial for understanding cell physiology in normal and disease states. The knowledge of PPIs can be
@@ -31,5 +33,3 @@ documented:
       2. Tune number of units in hidden layer 2: 64, 32, 16, 8.
       3. Tune number of training epochs from 5 to 20.
       4. Set initial learning rate to 0.001, 0.01, and 0.1.
-      
-This project is a part of the Data Science Lab course held in the summer semmester of 2020 at the University of Passau. 
