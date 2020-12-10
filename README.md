@@ -32,4 +32,4 @@ documented:
       3. Tune number of training epochs from 5 to 20.
       4. Set initial learning rate to 0.001, 0.01, and 0.1.
       
-## This project is a part of the Data Science Lab course held in the summer semmester of 2020 at the university of Passau. 
+### This project is a part of the Data Science Lab course held in the summer semmester of 2020 at the university of Passau. 
