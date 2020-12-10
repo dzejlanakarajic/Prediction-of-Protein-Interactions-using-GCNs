@@ -1,4 +1,4 @@
-#Predicting of Protein Interactions using GCNs#
+# Predicting of Protein Interactions using GCNs
 
 Protein-protein interactions (PPIs) are essential to almost every process in a cell. Exploring PPIs is
 crucial for understanding cell physiology in normal and disease states. The knowledge of PPIs can be
