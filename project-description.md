@@ -13,12 +13,15 @@ documented:
    1. Introduction to GCNs
    2. A short review on state-of-the-art for PPIs
    3. Formal definition of the problem (with mathematical notations)
+   
 2. Data Preprocessing
    1. Download the dataset (edgelist):
       1. Yeast
    2. Describe the dataset
+   
 3. Implementation
    1. Use GCNs in PyTorch and implement the link prediction problem
+   
 4. Empirical Evaluations and Discussion
    1. Link prediction Performance:
       1. Area Under the ROC Curve (AUC)
