@@ -1,6 +1,9 @@
 # Predicting of Protein Interactions using GCNs
-### This project is a part of the Data Science Lab course held in the summer semmester of 2020 at the University of Passau. 
+### This project is a part of the Data Science Lab course held in the summer semester of 2020 at the University of Passau. 
 
+
+
+### Project Description and Tasks
 
 Protein-protein interactions (PPIs) are essential to almost every process in a cell. Exploring PPIs is
 crucial for understanding cell physiology in normal and disease states. The knowledge of PPIs can be
