@@ -31,6 +31,7 @@ documented:
    1. Link prediction Performance:
       1. Area Under the ROC Curve (AUC)
       2. Average Precision (AP)
+      
    2. Hyperparameter study:
       1. Tune number of units in hidden layer 1: 256, 128, 64, 32.
       2. Tune number of units in hidden layer 2: 64, 32, 16, 8.
